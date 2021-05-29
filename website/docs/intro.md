@@ -3,4 +3,4 @@ id: intro
 title: Introdução
 ---
 
-> **Aviso**: em construção.
+> **Aviso:** em construção.

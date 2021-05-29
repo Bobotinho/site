@@ -41,9 +41,8 @@ module.exports = {
           showLastUpdateTime: true,
           editUrl:
             'https://github.com/facebook/react-native-website/blob/master/website/',
-          path: '../docs',
+          path: 'docs',
           sidebarPath: require.resolve('./sidebars.json'),
-          remarkPlugins: [require('@react-native-website/remark-snackplayer')],
         },
         blog: {
           path: 'blog',

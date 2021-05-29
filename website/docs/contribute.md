@@ -3,4 +3,4 @@ id: contribute
 title: Como contribuir
 ---
 
-> **Aviso**: em construção.
+> **Aviso:** em construção.

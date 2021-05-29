@@ -1,14 +1,7 @@
 {
-  "name": "react-native-website",
-  "description": "React Native website",
-  "version": "0.0.1",
+  "name": "bobotinho",
+  "version": "0.1.0",
   "private": true,
-  "license": "CC-BY-4.0",
-  "homepage": "https://reactnative.dev/",
-  "repository": "github:facebook/react-native-website",
-  "bugs": {
-    "url": "https://github.com/facebook/react-native-website/issues"
-  },
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -19,10 +12,10 @@
     "test": "yarn build",
     "version:cut": "docusaurus docs:version",
     "format:source": "prettier --write {{core,src}/**/*.js,*.js}",
-    "format:markdown": "prettier --write ../docs/*.md && prettier --write {{versioned_docs,src}/**/*.md,blog/*.md}",
+    "format:markdown": "prettier --write docs/*.md && prettier --write {{versioned_docs,src}/**/*.md,blog/*.md}",
     "format:style": "prettier --write src/**/*.{scss,css}",
     "prettier": "yarn format:source && yarn format:markdown && yarn format:style",
-    "lint": "eslint ../docs/** blog/** core/** src/**/*.{js,md}",
+    "lint": "eslint docs/** blog/** core/** src/**/*.{js,md}",
     "lint:versioned": "eslint versioned_docs/**",
     "language:lint": "cd ../ && alex .",
     "language:lint:versioned": "cd ../ && alex",

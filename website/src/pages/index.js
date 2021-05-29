@@ -32,12 +32,12 @@ function Features() {
           <div className={`column first}`}>
             <img src='img/homepage/up.svg' />
             <h2 className='Heading' align='center'>Engaje sua comunidade</h2>
-            <p>Ofereça entretenimento e aumente a interação entre os usuários do seu chat mesmo quando sua stream estiver offline!</p>
+            <p>Ofereça entretenimento e interação entre os usuários do seu chat mesmo quando sua stream estiver offline!</p>
           </div>
           <div className={`column middle}`}>
             <img src='img/homepage/click.svg' />
             <h2 className='Heading' align='center'>Adicione rapidamente</h2>
-            <p>Solicite usando sua conta da Twitch! Com apenas 2 cliques, o Bobotinho estará no seu chat em até 60 segundos.</p>
+            <p>Solicite usando sua conta da Twitch! Com 2 cliques, o Bobotinho estará no seu chat em até 60 segundos.</p>
           </div>
           <div className={`column last}`}>
             <img src='img/homepage/cloud.svg' />

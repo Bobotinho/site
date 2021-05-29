@@ -1,1 +1,1 @@
-web: cd ./website && yarn start
+web: website
