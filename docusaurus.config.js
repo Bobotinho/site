@@ -24,8 +24,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   titleDelimiter: '|',
   customFields: {
-    users,
-    facebookAppId: '1677033832619985',
+    users
   },
   i18n: {
     defaultLocale: 'pt',
@@ -38,9 +37,8 @@ module.exports = {
       {
         docs: {
           showLastUpdateAuthor: false,
-          showLastUpdateTime: true,
-          editUrl:
-            'https://github.com/facebook/react-native-website/blob/master/website/',
+          showLastUpdateTime: false,
+          editUrl: 'https://github.com/leandcesar/bobotinho-site/tree/main/',
           path: 'docs',
           sidebarPath: require.resolve('./sidebars.json'),
         },

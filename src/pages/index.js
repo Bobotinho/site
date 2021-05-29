@@ -150,7 +150,7 @@ const Index = () => {
       </Head>
       <Header />
       <Features />
-      {/* <ChatExample /> */}
+      <ChatExample />
       <Channels />
       <GetStarted />
     </Layout>

@@ -1,5 +1,6 @@
 {
   "name": "bobotinho",
+  "description": "Twitch bot for Brazilian offstream chat entertainment",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -45,7 +46,7 @@
   "devDependencies": {
     "alex": "^9.1.0",
     "fs-extra": "^9.1.0",
-    "glob": "^7.1.6",
+    "glob": "^7.1.7",
     "glob-promise": "^4.1.0",
     "path": "^0.12.7"
   }
