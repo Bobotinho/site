@@ -1,13 +1,14 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 
 import Head from '@docusaurus/Head';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { Timeline } from 'react-twitter-widgets'
 
 import Layout from '@theme/Layout';
 
 
-function Section({element = 'section', children, className, background = 'light',}) {
+function Section({ element = 'section', children, className, background = 'light', }) {
   const El = element;
   return <El className={`Section ${className} ${background}`}>{children}</El>;
 }
@@ -84,7 +85,7 @@ function ChatExample() {
 }
 
 function AppList() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   const apps = siteConfig.customFields.users.filter(app => app.pinned);
   return (
     <ul className='AppList'>
@@ -125,11 +126,68 @@ function Channels() {
   );
 }
 
+function Discord() {
+  return (
+    <Section className='Widget' background='tint'>
+      <div className='content'>
+        <h2 className='Heading'>Suporte e dúvidas</h2>
+        <div className={`TwoColumns`}>
+          <div className={`column first left}`}>
+            <p>
+              Seja uma dúvida, uma sugestão ou um problema relacionado ao Bobotinho,
+              você com certeza será respondido se utilizar o <a href={'https://discord.gg/6Ue66Vs5eQ'}>servidor do Discord</a>.
+            </p>
+            <p>
+              Você também poderá acompanhar quais funcionalidades estão sendo implementadas
+              e o que está sendo planejado para o futuro.
+            </p>
+          </div>
+          <div className={`column last right`}>
+            <p>
+              <iframe src='https://discord.com/widget?id=785177386638901250&theme=dark' width='100%' height='225' allowtransparency='true' frameborder='0' sandbox='allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts'></iframe>
+            </p>
+          </div>
+        </div>
+      </div>
+    </Section>
+  );
+}
+
+function Twitter() {
+  return (
+    <Section className='Widget' background='light'>
+      <div className='content'>
+        <h2 className='Heading'>Interação e memes</h2>
+        <div className={`TwoColumns`}>
+          <div className={`column first left}`}>
+            <p>
+              O Bobotinho também está presente no <a href={'https://discord.gg/6Ue66Vs5eQ'}>Twitter</a>,
+              de olho nas publicações com relação a ele! Seja uma piada, uma menção ou alguma informação,
+              você encontrará tudo lá!
+            </p>
+            <p>
+              Sempre que há uma grande novidade, ela também é publicada lá. Então siga para não perder nada!
+            </p>
+          </div>
+          <div className={`column last right`}>
+            <p>
+              <Timeline
+                dataSource={{sourceType: 'profile', screenName: 'bobotinho'}}
+                options={{height: '225'}}
+              />
+            </p>
+          </div>
+        </div>
+      </div>
+    </Section>
+  );
+}
+
 function GetStarted() {
   return (
     <Section className='GetStarted' background='tint'>
       <div className='content'>
-      <h2 className='Heading'>Está esperando o quê?</h2>
+        <h2 className='Heading'>Está esperando o quê?</h2>
         <p>Sem senhas, sem formulários, sem enrolações!</p>
         <div className='buttons' align='center'>
           <a className='ActionButton brand' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
@@ -146,12 +204,14 @@ const Index = () => {
       wrapperClassName='homepage'>
       <Head>
         <title>Bobotinho | Seu bot da Twitch</title>
-        <meta property='og:title' content='Bobotinho | Seu bot da Twitch'/>
+        <meta property='og:title' content='Bobotinho | Seu bot da Twitch' />
       </Head>
       <Header />
       <Features />
       {/* <ChatExample /> */}
       <Channels />
+      <Discord />
+      <Twitter />
       <GetStarted />
     </Layout>
   );

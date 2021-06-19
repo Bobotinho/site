@@ -159,6 +159,48 @@
   }
 }
 
+/* Widget */
+
+.Widget .content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  .firstP img {
+    float: left;
+    width: 56px;
+    height: 56px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .Widget .Heading {
+    width: 100%;
+    padding: 0 1rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 960px) {
+  .Widget .Heading {
+    width: 100%;
+    padding: 0 4rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 961px) {
+  .Widget .column.first {
+    border-right: 1px solid var(--ifm-table-border-color);
+  }
+
+  .Widget .column.last {
+    margin-top: -2rem;
+  }
+}
+
 /* Get Started */
 
 .GetStarted,
