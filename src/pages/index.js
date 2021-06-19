@@ -18,7 +18,7 @@ function Header() {
       <h1 className='title' align='center'>Bobotinho</h1>
       <p className='tagline' align='center'>Melhore a experiência do seu chat off-stream</p>
       <div className='buttons' align='center'>
-        <a className='ActionButton white' href={'http://bobotinho-load-balancer.herokuapp.com/invite'} target='_self'>Adicionar</a>
+        <a className='ActionButton white' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
       </div>
     </Section>
   );
@@ -132,7 +132,7 @@ function GetStarted() {
       <h2 className='Heading'>Está esperando o quê?</h2>
         <p>Sem senhas, sem formulários, sem enrolações!</p>
         <div className='buttons' align='center'>
-          <a className='ActionButton brand' href={'http://bobotinho-load-balancer.herokuapp.com/invite'} target='_self'>Adicionar</a>
+          <a className='ActionButton brand' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
         </div>
       </div>
     </Section>
