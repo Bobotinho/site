@@ -3,7 +3,7 @@ title: Hello World, again!
 author: Leandro César (@discretinho)
 author_title: DEV
 author_url: https://github.com/leandcesar
-author_image_url: /blog/assets/leandcesar.png
+author_image_url: /blog/assets/leandcesar.jpeg
 tags: [news]
 ---
 
