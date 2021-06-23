@@ -161,7 +161,7 @@ function Twitter() {
         <div className={`TwoColumns`}>
           <div className={`column first left}`}>
             <p>
-              O Bobotinho também está presente no <a href={'https://discord.gg/6Ue66Vs5eQ'}>Twitter</a>,
+              O Bobotinho também está presente no <a href={'https://twitter.com/bobotinho'}>Twitter</a>,
               de olho nas publicações com relação a ele! Seja uma piada, uma menção ou alguma informação,
               você encontrará tudo lá!
             </p>
