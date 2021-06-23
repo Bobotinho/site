@@ -1,91 +1,91 @@
 [
   {
     "name": "Cellbit",
-    "icon": "cellbit.jpeg",
+    "icon": "cellbit.JP2",
     "infoLink": "https://twitch.tv/cellbit",
     "pinned": true
   },
   {
     "name": "LubaTV",
-    "icon": "lubatv.jpeg",
+    "icon": "lubatv.JP2",
     "infoLink": "https://twitch.tv/lubatv",
     "pinned": true
   },
   {
     "name": "Mount",
-    "icon": "mount.jpeg",
+    "icon": "mount.JP2",
     "infoLink": "https://twitch.tv/mount",
     "pinned": true
   },
   {
     "name": "OMeiaUm",
-    "icon": "omeiaum.jpeg",
+    "icon": "omeiaum.JP2",
     "infoLink": "https://twitch.tv/omeiaum",
     "pinned": true
   },
   {
     "name": "ZeroBadass",
-    "icon": "zerobadass.jpeg",
+    "icon": "zerobadass.JP2",
     "infoLink": "https://twitch.tv/zerobadass",
     "pinned": true
   },
   {
     "name": "LJoga",
-    "icon": "ljoga.jpeg",
+    "icon": "ljoga.JP2",
     "infoLink": "https://twitch.tv/ljoga",
     "pinned": false
   },
   {
     "name": "Douglassola",
-    "icon": "douglassola.jpeg",
+    "icon": "douglassola.JP2",
     "infoLink": "https://twitch.tv/douglassola",
     "pinned": false
   },
   {
     "name": "OAkinoo",
-    "icon": "oakinoo.jpeg",
+    "icon": "oakinoo.JP2",
     "infoLink": "https://twitch.tv/oakinoo",
     "pinned": false
   },
   {
     "name": "Noblezito",
-    "icon": "noblezito.jpeg",
+    "icon": "noblezito.JP2",
     "infoLink": "https://twitch.tv/noblezito",
     "pinned": false
   },
   {
     "name": "FISHNOTHING",
-    "icon": "fishnothing.jpeg",
+    "icon": "fishnothing.JP2",
     "infoLink": "https://twitch.tv/fishnothing",
     "pinned": false
   },
   {
     "name": "RichJustin",
-    "icon": "richjustin.jpeg",
+    "icon": "richjustin.JP2",
     "infoLink": "https://twitch.tv/richjustin",
     "pinned": false
   },
   {
     "name": "Mr_Warrior",
-    "icon": "mr_warrior.jpeg",
+    "icon": "mr_warrior.JP2",
     "infoLink": "https://twitch.tv/mr_warrior",
     "pinned": false
   },
   {
     "name": "Markineed",
-    "icon": "markineed.jpeg",
+    "icon": "markineed.JP2",
     "infoLink": "https://twitch.tv/markineed",
     "pinned": false
   },
   {
     "name": "cbiia",
-    "icon": "cbiia.jpeg",
+    "icon": "cbiia.JP2",
     "infoLink": "https://twitch.tv/cbiia",
     "pinned": false
   },
   {
     "name": "Akkaiverso",
-    "icon": "akkaiverso.jpeg",
+    "icon": "akkaiverso.JP2",
     "infoLink": "https://twitch.tv/akkaiverso",
     "pinned": false
   }
