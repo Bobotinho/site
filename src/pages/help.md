@@ -71,6 +71,7 @@ Comandos úteis com ferramentas para facilitar e agilizar sua vida!
 | currency  | Saiba o valor da conversão de uma moeda em reais       |
 | math      | Saiba o resultado de alguma expressão matemática       |
 | remind    | Deixe um lembrete para algum usuário                   |
+| savecity  | Salve sua cidade para agilizar a previsão do tempo     |
 | translate | Saiba a tradução de alguma mensagem                    |
 | weather   | Saiba o clima atual de alguma cidade                   |
 
