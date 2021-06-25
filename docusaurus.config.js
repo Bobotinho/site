@@ -122,13 +122,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: '/blog/tags/news',
-          label: 'Novidades',
-          position: 'left',
-        },
-        {
-          to: '/blog/tags/arts',
-          label: 'Artes',
+          to: '/blog',
+          label: 'Blog',
           position: 'left',
         },
         {
@@ -174,12 +169,8 @@ module.exports = {
               to: 'help',
             },
             {
-              label: 'Novidades',
-              to: 'blog/tags/news',
-            },
-            {
-              label: 'Artes',
-              to: 'blog/tags/arts',
+              label: 'Blog',
+              to: 'blog',
             },
             {
               label: 'Canais',
