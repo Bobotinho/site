@@ -122,6 +122,11 @@ module.exports = {
           position: 'left',
         },
         {
+          label: 'Status',
+          to: '/status',
+          position: 'left',
+        },
+        {
           to: '/blog',
           label: 'Blog',
           position: 'left',
@@ -167,6 +172,10 @@ module.exports = {
             {
               label: 'Comandos',
               to: 'help',
+            },
+            {
+              label: 'Status',
+              to: 'status',
             },
             {
               label: 'Blog',
