@@ -15,7 +15,7 @@ Comandos gerais que contém informações básicas sobre o bot.
 | Nome    | Descrição                                                                      |
 | :------ | :----------------------------------------------------------------------------- |
 | arts    | Receba o link das artes do bot                                                 |
-| botinfo | Veja as principais informações sobre o bot                                     |
+| bot     | Veja as principais informações sobre o bot                                     |
 | help    | Receba o link da lista de comandos ou veja como utilizar um comando específico |
 | invite  | Receba o link para adicionar o bot no seu chat                                 |
 | news    | Receba o link com as atualizações do bot e fique por dentro das novidades      |
@@ -135,7 +135,7 @@ Comandos aleatórios que podem ser usados para decidir ou verificar algo!
 | Nome   | Descrição                                               |
 | :----- | :------------------------------------------------------ |
 | %      | Receba uma probabilidade de 0 a 100                     |
-| 4Head   | Receba uma piada, charada ou trocadilho    |
+| 4head   | Receba uma piada, charada ou trocadilho    |
 | 8ball  | Tenha sua pergunta respondida com uma previsão do bot   |
 | choice | Dê opções separadas por "ou" e uma delas será escolhida |
 | coin   | Jogue uma moeda e veja se deu cara ou coroa             |

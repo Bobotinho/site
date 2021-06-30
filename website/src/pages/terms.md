@@ -8,7 +8,7 @@ wrapperClassName: 'terms'
 
 ## 1. Termos
 
-Acessando o Serviço ("o Site", "Serviços" ou "Sites") que consiste no site disponível na URL http://bobotinho.herokuapp.com/ e todos os serviços relacionados, aplicativos de software e redes operados pelo Bobotinho ("Empresa", "nós", "nós" ou "nosso"), incluindo, mas não se limitando a, visitar, registrar-se, fazer download de, navegar no Site ou contribuir com conteúdo ou outros materiais para o Serviço, você reconhece que leu, entendido e concordado em estar vinculado por estes Termos e Condições de Uso, todas as leis e regulamentos aplicáveis, e concorda que você é responsável pelo cumprimento de quaisquer leis locais aplicáveis. Se você não concordar com qualquer um desses termos, você está proibido de usar ou acessar o Serviço.
+Acessando o Serviço ("o Site", "Serviços" ou "Sites") que consiste no site disponível na URL http://bobotinho.vercel.app/ e todos os serviços relacionados, aplicativos de software e redes operados pelo Bobotinho ("Empresa", "nós", "nós" ou "nosso"), incluindo, mas não se limitando a, visitar, registrar-se, fazer download de, navegar no Site ou contribuir com conteúdo ou outros materiais para o Serviço, você reconhece que leu, entendido e concordado em estar vinculado por estes Termos e Condições de Uso, todas as leis e regulamentos aplicáveis, e concorda que você é responsável pelo cumprimento de quaisquer leis locais aplicáveis. Se você não concordar com qualquer um desses termos, você está proibido de usar ou acessar o Serviço.
 
 Se você estiver usando ou acessando o Serviço em nome de uma empresa, entidade ou organização (coletivamente, uma "organização assinante"), você representa e garante que:
 

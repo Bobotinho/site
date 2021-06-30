@@ -8,7 +8,7 @@ wrapperClassName: 'privacy'
 
 Bobotinho ("Bot", "robô", "nós" ou "nosso") está empenhado em proteger suas informações pessoais e seu direito à privacidade. Se você tiver dúvidas ou preocupações sobre nosso aviso ou nossas práticas com relação às suas informações pessoais, entre em contato conosco em bobotinho@outlook.com.
 
-Esta Política de Privacidade se aplica a todas as informações coletadas por meio de vendas, marketing, eventos e/ou uso do Serviço ("o Site", "Serviços" ou "Website") consistindo no site disponível na URL http://bobotinho.herokuapp.com/ e/ou todos os serviços relacionados, aplicativos de software e redes operados pelo Bobotinho (referidos coletivamente nesta Política de Privacidade como "Serviços" ou/e "o Serviço".)
+Esta Política de Privacidade se aplica a todas as informações coletadas por meio de vendas, marketing, eventos e/ou uso do Serviço ("o Site", "Serviços" ou "Website") consistindo no site disponível na URL http://bobotinho.vercel.app/ e/ou todos os serviços relacionados, aplicativos de software e redes operados pelo Bobotinho (referidos coletivamente nesta Política de Privacidade como "Serviços" ou/e "o Serviço".)
 
 Ao acessar o Serviço, incluindo, mas não se limitando a, visitar, registrar, baixar, navegar no Site ou contribuir com conteúdo ou outros materiais para o Serviço, você está aceitando as práticas descritas nesta Política de Privacidade, na medida permitida por lei.
 

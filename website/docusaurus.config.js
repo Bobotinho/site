@@ -5,7 +5,7 @@ module.exports = {
   tagline: 'Seu bot da Twitch',
   organizationName: 'leandcesar',
   projectName: 'bobotinho',
-  url: 'https://bobotinho.herokuapp.com',
+  url: 'https://bobotinho.vercel.app',
   baseUrl: '/',
   clientModules: [require.resolve('./snackPlayerInitializer.js')],
   scripts: [],
@@ -27,11 +27,11 @@ module.exports = {
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
           editUrl: 'https://github.com/leandcesar/bobotinho-site/tree/main/',
-          path: 'docs',
+          path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
         },
         blog: {
-          path: 'blog',
+          path: '../blog',
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Todas as postagens',
           feedOptions: {
