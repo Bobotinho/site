@@ -4,13 +4,7 @@ const syntax = [
 ];
 const defaultSyntax = 'functional';
 
-const platforms = [
-  {label: 'Android', value: 'android'},
-  {label: 'iOS', value: 'ios'},
-];
-
 export default {
   defaultSyntax,
-  platforms,
   syntax,
 };

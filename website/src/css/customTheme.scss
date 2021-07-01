@@ -1120,16 +1120,15 @@ td .color-box {
     }
   }
 
-  /* Label variants */
-  &.android {
-    background: #a4c936;
+  &.new {
+    background: #3c8cc4;
 
     &:before {
-      border-right-color: #a4c936;
+      border-right-color: #3c8cc4;
     }
   }
 
-  &.ios {
+  &.ai {
     background: #222;
 
     &:before {
@@ -1137,19 +1136,12 @@ td .color-box {
     }
   }
 
-  &.tv {
-    background: #6170af;
+  &.required {
+    background: #4cb424;
 
     &:before {
-      border-right-color: #6170af;
+      border-right-color: #4cb424;
     }
-  }
-
-  &.required {
-    margin-left: 0;
-    margin-right: 16px;
-    color: #fa5035;
-    border-color: #fa5035;
   }
 }
 
@@ -1160,7 +1152,15 @@ html[data-theme="dark"] .label {
     background: var(--ifm-background-color);
   }
 
-  &.ios {
+  &.new {
+    background: #3c8cc4;
+
+    &:before {
+      border-right-color: #3c8cc4;
+    }
+  }
+
+  &.ai {
     background: #fff;
 
     &:before {
@@ -1169,7 +1169,11 @@ html[data-theme="dark"] .label {
   }
 
   &.required {
-    color: #fa5035;
+    background: #4cb424;
+
+    &:before {
+      border-right-color: #4cb424;
+    }
   }
 }
 
@@ -1213,9 +1217,7 @@ td .label {
     margin-left: 0;
     margin-top: 5px;
 
-    &.ios,
-    &.android,
-    &.tv {
+    &.ai {
       margin-left: 8px;
     }
   }
@@ -1241,7 +1243,6 @@ td .label {
     margin-left: 0;
     margin-right: 6px;
     border-width: 3px;
-    background: #fa5035;
   }
 
   /* Second dot shift */

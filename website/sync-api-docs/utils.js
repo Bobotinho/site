@@ -9,28 +9,6 @@
 const he = require('he');
 const magic = require('./magic');
 
-// Adds multiple platform tags for prop name
-function formatMultiplePlatform(platforms) {
-  let platformString = '';
-  platforms.forEach(platform => {
-    switch (platform.trim().toLowerCase()) {
-      case 'ios':
-        platformString += '<div class="label ios">' + 'iOS' + '</div> ';
-        break;
-      case 'android':
-        platformString += '<div class="label android">' + 'Android' + '</div>';
-        break;
-      case 'tv':
-        platformString += '<div class="label tv">' + 'TV' + '</div>';
-        break;
-      //TODO: Add a new CSS class for VR
-      case 'vr':
-        platformString += '<div class="label tv">' + 'VR' + '</div>';
-    }
-  });
-  return platformString;
-}
-
 // Wraps a string in an inline code block in a way that is safe to include in a
 // table cell, by wrapping it as HTML <code> if necessary.
 function stringToInlineCodeForTable(str) {
@@ -86,7 +64,6 @@ function titleToId(title) {
 }
 
 module.exports = {
-  formatMultiplePlatform,
   stringToInlineCodeForTable,
   maybeLinkifyType,
   maybeLinkifyTypeName,
