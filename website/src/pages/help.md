@@ -8,7 +8,7 @@ wrapperClassName: 'help'
 
 Confira todas os comandos do Bobotinho, separados por grupo. Para usá-los, utilize o prefixo **`%`**.
 
-Não quiser decorar todos os comandos? Experimente a Inteligência Artificial!
+Não quer decorar todos os comandos? Experimente a Inteligência Artificial!
 
 Você pode mencionar o Bobotinho e dizer o que quiser saber, ele identificará qual comando você quis usar e te responder! Tente: "`@bobotinho, quando eu criei a conta?`"
 
