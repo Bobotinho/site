@@ -120,7 +120,7 @@ module.exports = {
         src: 'img/header_logo.svg',
         alt: 'Bobotinho',
       },
-      style: 'dark',
+      style: 'primary',
       items: [
         {
           label: 'Comandos',

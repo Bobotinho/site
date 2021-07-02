@@ -22,7 +22,7 @@
   --ifm-blockquote-color: var(--ifm-font-color-base);
   --ifm-table-head-color: var(--subtle);
   --ifm-link-hover-decoration: none;
-  --ifm-navbar-background-color: var(--deepdark);
+  --ifm-navbar-background-color: var(--ifm-color-primary);
   --ifm-transition-fast: 0;
   --ifm-transition-slow: 0;
   --ifm-pre-line-height: 1.5;
@@ -393,10 +393,6 @@ html[data-theme="dark"] .avatar__name a {
 /* Navbar */
 
 .navbar {
-  &.navbar--dark {
-    background-color: var(--deepdark);
-  }
-
   .navbar__inner {
     max-width: 1360px;
     margin: 0 auto;
@@ -408,19 +404,19 @@ html[data-theme="dark"] .avatar__name a {
   }
 
   .navbar__brand:hover {
-    color: var(--brand);
+    opacity: 0.5;
   }
 
   .navbar__item {
     &.navbar__link {
       font-weight: 300;
       font-size: 18px;
+      color: #fff;
       user-select: none;
     }
 
-    &.dropdown a {
-      font-weight: 400;
-      font-size: 14px;
+    &.navbar__link:hover {
+      opacity: 0.5;
     }
   }
 
@@ -456,6 +452,10 @@ html[data-theme="dark"] .avatar__name a {
 
   .navbar__toggle {
     color: #fff;
+
+    &:hover {
+      opacity: 0.5;
+    }
   }
 
   .dropdown__menu {
@@ -552,7 +552,7 @@ html[data-theme="dark"] .avatar__name a {
   background: var(--divider);
 
   .navbar-sidebar__brand {
-    background-color: var(--deepdark);
+    background-color: var(--brand);
   }
 
   .navbar-sidebar__items {
@@ -618,11 +618,6 @@ html[data-theme="dark"] .avatar__name a {
 
 html[data-theme="dark"] .navbar-sidebar {
   background: var(--ifm-background-color);
-}
-
-@media (max-width: 1080px) {
-  .navbar {
-  }
 }
 
 /* Sidebar */
