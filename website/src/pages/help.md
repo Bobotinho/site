@@ -27,6 +27,7 @@ Comandos gerais que contém informações básicas sobre o bot.
 | news <div class="label ai">IA</div> | Receba o link com as atualizações do bot e fique por dentro das novidades |
 | ping <div class="label ai">IA</div> | Verifique se o bot está online                     |
 | site <div class="label ai">IA</div> | Receba o link do site do bot para mais informações |
+| status <div class="label new">NOVO</div> | Receba o link para ver o status dos softwares do Bot |
 | suggest | Faça uma sugestão de recurso para o bot                                        |
 | uptime <div class="label ai">IA</div> | Verifique há quanto tempo o bot está online      |
 
@@ -85,14 +86,17 @@ Comandos úteis com ferramentas para facilitar e agilizar sua vida!
 
 Comandos relacionados ao entreterimento, como jogos, piadas e ações para interagir com outros usuários!
 
-| Nome    | Descrição                                  |
-| :------ | :----------------------------------------- |
-| fight   | Desafie alguém do chat para lutar          |
-| hug     | Dê um abraço em alguém do chat             |
-| jokenpo | Tente vencer o pedra, papel e tesoura      |
-| kiss    | Dê um beijinho em alguém do chat           |
-| ship    | Faça um ship entre o nome de duas pessoas  |
-| tuck    | Coloque alguém do chat na cama para dormir |
+| Nome    | Descrição                                                            |
+| :------ | :------------------------------------------------------------------- |
+| 4head <div class="label ai">IA</div> | Receba uma piada, charada ou trocadilho |
+| 8ball   | Tenha sua pergunta respondida com uma previsão do bot                |
+| fight   | Desafie alguém do chat para lutar                                    |
+| hug     | Dê um abraço em alguém do chat                                       |
+| jokenpo | Tente vencer o pedra, papel e tesoura                                |
+| kiss    | Dê um beijinho em alguém do chat                                     |
+| love    | Veja quanto de amor existe entre você e alguém ou algo               |
+| ship    | Faça um ship entre o nome de duas pessoas                            |
+| tuck    | Coloque alguém do chat na cama para dormir                           |
 
 ## Cookies
 
@@ -141,11 +145,8 @@ Comandos aleatórios que podem ser usados para decidir ou verificar algo!
 | Nome   | Descrição                                                                     |
 | :----- | :---------------------------------------------------------------------------- |
 | % <div class="label ai">IA</div> | Receba uma probabilidade de 0 a 100                 |
-| 4head <div class="label ai">IA</div> | Receba uma piada, charada ou trocadilho         |
-| 8ball  | Tenha sua pergunta respondida com uma previsão do bot                         |
 | choice | Dê opções separadas por "ou" e uma delas será escolhida                       |
 | coin <div class="label ai">IA</div> | Jogue uma moeda e veja se deu cara ou coroa      |
-| love   | Veja quanto de amor existe entre você e alguém ou algo                        |
 | pick   | Sorteie uma palavra da mensagem informada                                     |
 | roll <div class="label ai">IA</div> | Role um dado e veja o resultado                  |
 | sadcat <div class="label ai">IA</div> | Receba uma foto aleatória de um gatinho triste |
