@@ -19,10 +19,10 @@ Infelizmente, não é mais possível manter o Bobotinho funcionando de forma gra
 Sinta-se livre para fazer uma doação de qualquer valor através de uma das formas de pagamento: [**PIX**](https://nubank.com.br/pagar/tbd7z/I7It3Go5oY), [**PayPal**](https://www.paypal.com/donate?hosted_button_id=MWQZ89XQ7DEP6), [**PicPay**](https://app.picpay.com/user/leandcesar) ou [**Bitcoin**](https://www.blockchain.com/pt/btc/address/bc1q2gs9qc8q7d6qn90xnzmamedpn36hl6p2w0c4z6)! Sem enrolações, clique na opção que te deixar mais confortável.
 
 <p align="center">
-<a href="https://nubank.com.br/pagar/tbd7z/I7It3Go5oY">&emsp;<img height="42" src="../../static/img/donate/pix.svg" alt="PIX"/>&emsp;</a>
-<a href="https://www.paypal.com/donate?hosted_button_id=MWQZ89XQ7DEP6">&emsp;<img height="42" src="../../static/img/donate/paypal.svg" alt="PayPal"/>&emsp;</a>
-<a href="https://app.picpay.com/user/leandcesar">&emsp;<img height="42" src="../../static/img/donate/picpay.svg" alt="PicPay"/>&emsp;</a>
-<a href="https://www.blockchain.com/pt/btc/address/bc1q2gs9qc8q7d6qn90xnzmamedpn36hl6p2w0c4z6">&emsp;<img height="42" src="../../static/img/donate/bitcoin.svg" alt="Bitcoin"/>&emsp;</a>
+<a href="https://nubank.com.br/pagar/tbd7z/I7It3Go5oY">&emsp;<img height="42" src="img/donate/pix.svg" alt="PIX"/>&emsp;</a>
+<a href="https://www.paypal.com/donate?hosted_button_id=MWQZ89XQ7DEP6">&emsp;<img height="42" src="img/donate/paypal.svg" alt="PayPal"/>&emsp;</a>
+<a href="https://app.picpay.com/user/leandcesar">&emsp;<img height="42" src="img/donate/picpay.svg" alt="PicPay"/>&emsp;</a>
+<a href="https://www.blockchain.com/pt/btc/address/bc1q2gs9qc8q7d6qn90xnzmamedpn36hl6p2w0c4z6">&emsp;<img height="42" src="img/donate/bitcoin.svg" alt="Bitcoin"/>&emsp;</a>
 </p>
 
 > Envie seu nome de usuário da [Twitch](https://www.twitch.tv/) como anotação/mensagem na plataforma que escolher para doação. Será importante para agradecê-lo e presenteá-lo com as recompensas abaixo!
