@@ -111,7 +111,7 @@ Você concorda que o Bobotinho pode usar sua empresa, organização ou nome de p
 
 ## 14. Pagamentos
 
-Ao fazer uma transação monetária online para o Serviço ("Pagamento") por meio de qualquer um de seus serviços de pagamento de terceiros ("o Serviço de Pagamento", "PayPal", "PicPay", "Pix", "Mercado Pago"), você declara e garante que:
+Ao fazer uma transação monetária online para o Serviço ("Pagamento") por meio de qualquer um de seus serviços de pagamento de terceiros ("o Serviço de Pagamento", "Bitcoin", "PayPal", "PicPay", "Pix"), você declara e garante que:
 
 - uma vez que o pagamento é feito, a transação é final e não pode ser contestada ou revertida, a menos que tenha sido feita de forma fraudulenta;
 - se tomar conhecimento de qualquer uso fraudulento de seu cartão de débito, cartão de crédito ou conta do Serviço de pagamento, você relatará isso à operadora do cartão ou ao Serviço de pagamento de acordo com suas regras de relatório;

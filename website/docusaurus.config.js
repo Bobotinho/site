@@ -138,6 +138,11 @@ module.exports = {
           position: 'left',
         },
         {
+          to: '/donate',
+          label: 'Apoiar',
+          position: 'left',
+        },
+        {
           label: 'Documentação',
           type: 'doc',
           docId: 'intro',
@@ -188,8 +193,8 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'Canais',
-              to: 'channels',
+              label: 'Apoiar',
+              to: 'donate',
             },
           ],
         },

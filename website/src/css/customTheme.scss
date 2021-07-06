@@ -1115,7 +1115,7 @@ td .color-box {
     }
   }
 
-  &.new {
+  &.blue {
     background: #3c8cc4;
 
     &:before {
@@ -1123,7 +1123,7 @@ td .color-box {
     }
   }
 
-  &.ai {
+  &.mono {
     background: #222;
 
     &:before {
@@ -1131,7 +1131,7 @@ td .color-box {
     }
   }
 
-  &.required {
+  &.green {
     background: #4cb424;
 
     &:before {
@@ -1147,7 +1147,7 @@ html[data-theme="dark"] .label {
     background: var(--ifm-background-color);
   }
 
-  &.new {
+  &.blue {
     background: #3c8cc4;
 
     &:before {
@@ -1155,7 +1155,7 @@ html[data-theme="dark"] .label {
     }
   }
 
-  &.ai {
+  &.mono {
     background: #fff;
 
     &:before {
@@ -1163,7 +1163,7 @@ html[data-theme="dark"] .label {
     }
   }
 
-  &.required {
+  &.green {
     background: #4cb424;
 
     &:before {
@@ -1200,7 +1200,7 @@ td .label {
     top: 7px;
   }
 
-  &.required {
+  &.green {
     margin-left: 8px;
     letter-spacing: 0.02rem;
     padding: 0 6px;
@@ -1212,7 +1212,7 @@ td .label {
     margin-left: 0;
     margin-top: 5px;
 
-    &.ai {
+    &.mono {
       margin-left: 8px;
     }
   }
@@ -1233,7 +1233,7 @@ td .label {
   color: transparent;
   float: initial;
 
-  &.required {
+  &.green {
     position: initial;
     margin-left: 0;
     margin-right: 6px;
