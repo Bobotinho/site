@@ -47,6 +47,7 @@ Para agradecer a sua doação, teremos algumas vantagens para você! Elas ainda 
 | **Sub ou Nitro²** 🔥    | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro!          |
 
 > Nota: as recompensas são aplicáveis para quem doar valores acima de R$1,00
+
 > Nota: o sistema de recompensas ainda está sendo planejado, não há garantia que as vantagens sejam permanentes
 
 ## Para onde vai o dinheiro?
