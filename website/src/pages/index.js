@@ -115,9 +115,9 @@ function Sponsors() {
             </p>
             <p>Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>    
             <p>O crescimento vem da contribuição, e agradeço a todos que contribuiram de alguma forma.</p>
+            <p>E um agradecimento especial aos <a href='/sponsors'>apoiadores</a>! 💜</p>
           </div>
           <div className={`column last right`}>
-            <p>E um agradecimento especial aos <a href='/sponsors'>apoiadores</a>! 💜</p>
             <SponsorsList />
           </div>
         </div>

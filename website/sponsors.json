@@ -7,6 +7,13 @@
     "value": "R$30,00"
   },
   {
+    "name": "skiiiiiiiiiiiiiiii",
+    "icon": "skiiiiiiiiiiiiiiii.JP2",
+    "infoLink": "https://twitch.tv/skiiiiiiiiiiiiiiii",
+    "pinned": true,
+    "value": "R$30.00"
+  },
+  {
     "name": "MightyRascall",
     "icon": "MightyRascall.JP2",
     "infoLink": "https://twitch.tv/MightyRascall",
@@ -14,11 +21,25 @@
     "value": "R$25,00"
   },
   {
+    "name": "vanderleyJrr",
+    "icon": "vanderleyJrr.JP2",
+    "infoLink": "https://twitch.tv/vanderleyJrr",
+    "pinned": true,
+    "value": "R$20.00"
+  },
+  {
     "name": "skaaarky",
     "icon": "skaaarky.JP2",
     "infoLink": "https://twitch.tv/skaaarky",
     "pinned": true,
     "value": "R$7,00"
+  },
+  {
+    "name": "nannimo__",
+    "icon": "nannimo__.JP2",
+    "infoLink": "https://twitch.tv/nannimo__",
+    "pinned": true,
+    "value": "R$6.23"
   },
   {
     "name": "GsPedrosa",
@@ -35,6 +56,13 @@
     "value": "R$5,88"
   },
   {
+    "name": "beaz0ka",
+    "icon": "beaz0ka.JP2",
+    "infoLink": "https://twitch.tv/beaz0ka",
+    "pinned": true,
+    "value": "R$5.81"
+  },
+  {
     "name": "giuubis",
     "icon": "giuubis.JP2",
     "infoLink": "https://twitch.tv/giuubis",
@@ -42,17 +70,55 @@
     "value": "R$5,00"
   },
   {
-    "name": "nannimo__",
-    "icon": "nannimo__.JP2",
-    "infoLink": "https://twitch.tv/nannimo__",
+    "name": "richjustin",
+    "icon": "richjustin.JP2",
+    "infoLink": "https://twitch.tv/richjustin",
     "pinned": true,
     "value": "R$5.00"
+  },
+  {
+    "name": "Dimensionalmente",
+    "icon": "Dimensionalmente.JP2",
+    "infoLink": "https://twitch.tv/Dimensionalmente",
+    "pinned": true,
+    "value": "R$5.00"
+  },
+  {
+    "name": "RockySZ",
+    "icon": "RockySZ.JP2",
+    "infoLink": "https://twitch.tv/RockySZ",
+    "pinned": true,
+    "value": "R$4.16"
   },
   {
     "name": "lluan__",
     "icon": "lluan__.JP2",
     "infoLink": "https://twitch.tv/lluan__",
     "pinned": true,
+    "value": "R$2.00"
+  },
+  {
+    "name": "Filipe V.",
+    "icon": "default_1.JP2",
+    "pinned": false,
+    "value": "R$5.00"
+  },
+  {
+    "name": "Marcos T. F. F.",
+    "icon": "default_2.JP2",
+    "pinned": false,
+    "value": "R$5.00"
+  },
+  {
+    "name": "Andressa M. D.",
+    "icon": "default_3.JP2",
+    "pinned": false,
+    "value": "R$3.00"
+  },
+  {
+    "name": "Maria I. N.",
+    "icon": "default_4.JP2",
+    "pinned": false,
     "value": "R$2.00"
   }
 ]
