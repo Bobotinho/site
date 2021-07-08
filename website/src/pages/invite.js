@@ -1,5 +1,6 @@
 import React from 'react';
 
+import Layout from '@theme/Layout';
 
 function Invite() {
     React.useEffect(() => {
