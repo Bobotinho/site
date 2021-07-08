@@ -31,9 +31,7 @@ Se você clicou na opção que desejava e não conseguiu ser redirecionado, por 
 
 ## O que receberá em troca?
 
-Para agradecer a sua doação, teremos algumas vantagens para você!
-
-As recompensas ainda estão sendo pensadas e planejadas, mas mesmo que você doe agora, será recompensado quando elas forem implementadas!
+Para agradecer a sua doação, teremos algumas vantagens para você! Elas ainda estão sendo implementadas, mas mesmo que você doe agora, será recompensado quando estiverem prontas!
 
 | Recompensa              | Descrição                                                                                 |
 | :---------------------- | :---------------------------------------------------------------------------------------- |
@@ -42,19 +40,18 @@ As recompensas ainda estão sendo pensadas e planejadas, mas mesmo que você doe
 | **Cookies extra**       | Receba 10 cookies para cada 1 real doado!                                                 |
 | **Dobro de daily**      | Ganhe o dobro de cookie diário! <div class="label blue">Em breve</div>                    |
 | **Dobro de XP**         | Ganhe o dobro de XP nas Dungeons! <div class="label blue">Em breve</div>                  |
-| **Triplo de lembretes** | Limite de 7 lembretes? Esqueça, serão mais de 20! <div class="label blue">Em breve</div>  |
+| **Triplo de lembretes** | Limite de 7 lembretes? Esqueça, serão mais de 20!                                         |
 | **Poligamia¹** 🔥       | Já está casado no Bobotinho? Case-se mais uma vez! <div class="label blue">Em breve</div> |
 | **Hall da fama**        | Seu nome na página de [Apoiadores](/sponsors) do Bobotinho!                               |
 | **Cargo no Discord**    | Um cargo elegante no [servidor do Bobotinho](https://discord.gg/6Ue66Vs5eQ)               |
 | **Sub ou Nitro²** 🔥    | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro!          |
 
 > Nota: as recompensas são aplicáveis para quem doar valores acima de R$1,00
+> Nota: o sistema de recompensas ainda está sendo planejado, não há garantia que as vantagens sejam permanentes
 
 ## Para onde vai o dinheiro?
 
-O dinheiro será destinado **inteiramente** para pagamento de conta de serviços necessários para manter o Bobotinho funcionando.
-
-O projeto não tem fins lucrativos e o desenvolvedor não busca qualquer parcela das doações. O Bobotinho é desenvolvido por hobby há mais de um ano e continuará assim.
+O dinheiro será destinado **inteiramente** para pagamento de conta de serviços necessários para manter o Bobotinho funcionando. O projeto não tem fins lucrativos e o desenvolvedor não busca qualquer parcela das doações. O Bobotinho é desenvolvido por hobby há mais de um ano e continuará assim.
 
 Todo o valor arrecadado será para cobrir os custos de:
 
@@ -77,7 +74,7 @@ Ao doar, além de concordar com os [Termos](/terms) do Bobotinho, você também 
 
 Mas, quem sabe você não pode ajudar divulgando?
 
-**Obrigado a todos que ajudarem!**
+**Obrigado a todos que ajudarem! 💜**
 
 -----
 
