@@ -73,9 +73,13 @@ function Channels() {
     <Section className='Channels' background='light'>
       <div className='content'>
         <h2 className='Heading'>Para todo tipo de canal</h2>
-        <p>O Bobotinho está em centenas de canais da Twitch, dentre eles:</p>
-        <AppList />
-        <p>E <a href={useBaseUrl(`channels`)}>muitos outros</a>.</p>
+        <div className={`OneColumn`}>
+          <div className={`column first}`}>
+            <p>O Bobotinho está em centenas de canais da Twitch, dentre eles:</p>
+            <AppList />
+            <p>E <a href={useBaseUrl(`channels`)}>muitos outros</a>.</p>
+          </div>
+        </div>
       </div>
     </Section>
   );

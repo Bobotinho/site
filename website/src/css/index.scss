@@ -69,6 +69,12 @@
   }
 }
 
+@media only screen and (max-width: 960px) {
+  .AppList {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
 /* SponsorList */
 
 .SponsorList {
@@ -363,6 +369,50 @@
 
 html[data-theme="dark"] .Section p a {
   @extend %link-style-dark;
+}
+
+/* One column */
+
+.OneColumn {
+  display: grid;
+}
+
+.OneColumn .column {
+  width: 100%;
+}
+
+.OneColumn .column.first {
+  grid-area: first;
+}
+
+@media only screen and (min-width: 961px) {
+  .OneColumn {
+    max-width: 900px;
+    margin: 0 auto;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-areas: "first";
+  }
+
+  .OneColumn .column {
+    max-width: 900px;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .OneColumn {
+    grid-template-columns: 1fr;
+    grid-template-areas: "first";
+  }
+
+  .OneColumn .column {
+    padding: 0 4rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .OneColumn .column {
+    padding: 0 1.25rem;
+  }
 }
 
 /* Two columns */
