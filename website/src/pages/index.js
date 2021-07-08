@@ -51,42 +51,9 @@ function Features() {
   );
 }
 
-function ChatExample() {
-  return (
-    <Section className='ChatExample' background='tint'>
-      <div className='content'>
-        <div className={`TwoColumns`}>
-          <div className={`column first left}`}>
-            {
-              <video
-                muted
-                autoPlay
-                loop
-                playsInline
-                src={useBaseUrl(`img/homepage/chatexample.mp4`)}
-              />
-            }
-          </div>
-          <div className={`column last right`}>
-            <h2 className='Heading'>Chat sempre ativo</h2>
-            <p>
-              Comandos divertidos e ferramentas úteis para seus seguidores!
-            </p>
-            <p>
-              Lembretes, previsão do tempo, tradutor, calculadora,
-              biscoitos da sorte, mini-rpg, pets, piadas
-              e <a href={useBaseUrl(`help`)}>muito mais</a>!
-            </p>
-          </div>
-        </div>
-      </div>
-    </Section>
-  );
-}
-
 function AppList() {
   const { siteConfig } = useDocusaurusContext();
-  const apps = siteConfig.customFields.users.filter(app => app.pinned);
+  const apps = siteConfig.customFields.channels.filter(app => app.pinned);
   return (
     <ul className='AppList'>
       {apps.map((app, i) => {
@@ -105,6 +72,36 @@ function Channels() {
   return (
     <Section className='Channels' background='light'>
       <div className='content'>
+        <h2 className='Heading'>Para todo tipo de canal</h2>
+        <p>O Bobotinho está em centenas de canais da Twitch, dentre eles:</p>
+        <AppList />
+        <p>E <a href={useBaseUrl(`channels`)}>muitos outros</a>.</p>
+      </div>
+    </Section>
+  );
+}
+
+function SponsorsList() {
+  const { siteConfig } = useDocusaurusContext();
+  const sponsors = siteConfig.customFields.sponsors.filter(sponsor => sponsor.pinned);
+  return (
+    <ul className='SponsorList'>
+      {sponsors.map((sponsor, i) => {
+        const imgSource = sponsor.icon.startsWith('http') ? sponsor.icon : useBaseUrl('img/sponsors/' + sponsor.icon);
+        return (
+          <li key={i} className='item'>
+            <a href={sponsor.infoLink}><img src={imgSource} alt={sponsor.name} /></a>
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+
+function Sponsors() {
+  return (
+    <Section className='Sponsors' background='tint'>
+      <div className='content'>
         <h2 className='Heading'>Pela comunidade, para comunidade</h2>
         <div className={`TwoColumns`}>
           <div className={`column first left}`}>
@@ -112,13 +109,12 @@ function Channels() {
               O Bobotinho foi criado em abril de 2020,
               idealizado e mantido por <a href='https://twitch.tv/discretinho'>@discretinho</a>.
             </p>
-            <p>Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>
-            <p>O crescimento vem da contribuição, e agradeço por todos que contribuiram de alguma forma.</p>
+            <p>Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>    
+            <p>O crescimento vem da contribuição, e agradeço a todos que contribuiram de alguma forma.</p>
           </div>
           <div className={`column last right`}>
-            <p>O Bobotinho é usado em centenas de canais da Twitch, e você já o deve ter visto em um destes:</p>
-            <AppList />
-            <p>e <a href={useBaseUrl(`channels`)}>muito mais</a>.</p>
+            <p>E um agradecimento especial aos <a href='/sponsors'>apoiadores</a>! 💜</p>
+            <SponsorsList />
           </div>
         </div>
       </div>
@@ -128,7 +124,7 @@ function Channels() {
 
 function Discord() {
   return (
-    <Section className='Widget' background='tint'>
+    <Section className='Widget' background='light'>
       <div className='content'>
         <h2 className='Heading'>Suporte e dúvidas</h2>
         <div className={`TwoColumns`}>
@@ -155,7 +151,7 @@ function Discord() {
 
 function Twitter() {
   return (
-    <Section className='Widget' background='light'>
+    <Section className='Widget' background='tint'>
       <div className='content'>
         <h2 className='Heading'>Interação e memes</h2>
         <div className={`TwoColumns`}>
@@ -185,7 +181,7 @@ function Twitter() {
 
 function GetStarted() {
   return (
-    <Section className='GetStarted' background='tint'>
+    <Section className='GetStarted' background='light'>
       <div className='content'>
         <h2 className='Heading'>Está esperando o quê?</h2>
         <p>Sem senhas, sem formulários, sem enrolações!</p>
@@ -208,8 +204,8 @@ const Index = () => {
       </Head>
       <Header />
       <Features />
-      {/* <ChatExample /> */}
       <Channels />
+      <Sponsors />
       <Discord />
       <Twitter />
       <GetStarted />

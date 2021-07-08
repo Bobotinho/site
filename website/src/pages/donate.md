@@ -1,5 +1,5 @@
 ---
-title: Contribuição
+title: Apoiar
 description: Ajude a manter o projeto vivo
 wrapperClassName: 'donate'
 ---
@@ -37,7 +37,7 @@ As recompensas ainda estão sendo pensadas e planejadas, mas mesmo que você doe
 
 | Recompensa              | Descrição                                                                                 |
 | :---------------------- | :---------------------------------------------------------------------------------------- |
-| **Badge exclusiva**     | Seu @usuário com um emoji estiloso ao lado em todas as menções!                           |
+| **"Badge" exclusiva**   | Seu @usuário com um emoji estiloso ao lado de todas as menções do bot!                    |
 | **Sem cooldown**        | Use os comandos sem esperar os 10 segundos de cooldown!                                   |
 | **Cookies extra**       | Receba 10 cookies para cada 1 real doado!                                                 |
 | **Dobro de daily**      | Ganhe o dobro de cookie diário! <div class="label blue">Em breve</div>                    |
@@ -46,7 +46,7 @@ As recompensas ainda estão sendo pensadas e planejadas, mas mesmo que você doe
 | **Poligamia¹** 🔥       | Já está casado no Bobotinho? Case-se mais uma vez! <div class="label blue">Em breve</div> |
 | **Hall da fama**        | Seu nome na página de [Apoiadores](/sponsors) do Bobotinho!                               |
 | **Cargo no Discord**    | Um cargo elegante no [servidor do Bobotinho](https://discord.gg/6Ue66Vs5eQ)               |
-| **Sub ou Nitro²** 🔥  | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro!      |
+| **Sub ou Nitro²** 🔥    | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro!          |
 
 > Nota: as recompensas são aplicáveis para quem doar valores acima de R$1,00
 

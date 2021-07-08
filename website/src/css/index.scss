@@ -52,6 +52,28 @@
 .AppList {
   display: grid;
   padding: 0;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 12px;
+
+  .item {
+    list-style: none;
+
+    a img {
+      border-radius: 50%;
+      transition: all 0.25s ease-out;
+
+      &:hover {
+        border-radius: 10%;
+      }
+    }
+  }
+}
+
+/* SponsorList */
+
+.SponsorList {
+  display: grid;
+  padding: 0;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 12px;
 
@@ -155,6 +177,50 @@
 
 @media only screen and (min-width: 961px) {
   .Channels .column.first {
+    border-right: 1px solid var(--ifm-table-border-color);
+  }
+}
+
+/* Sponsors */
+
+.Sponsors .content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  .firstP img {
+    float: left;
+    width: 56px;
+    height: 56px;
+    margin-right: 20px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .Sponsors .Heading {
+    width: 100%;
+    padding: 0 1rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 960px) {
+  .Sponsors .Heading {
+    width: 100%;
+    padding: 0 4rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .Sponsors .AppList {
+    width: 100%;
+    max-width: 500px;
+    margin: 2rem auto;
+  }
+}
+
+@media only screen and (min-width: 961px) {
+  .Sponsors .column.first {
     border-right: 1px solid var(--ifm-table-border-color);
   }
 }

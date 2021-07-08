@@ -31,23 +31,24 @@ const renderInfo = (title, uri) => {
 const Channels = () => {
   const {siteConfig} = useDocusaurusContext();
 
-  const showcaseApps = siteConfig.customFields.users;
+  const showcaseApps = siteConfig.customFields.channels;
   const pinnedApps = showcaseApps.filter(app => app.pinned);
   const featuredApps = showcaseApps.filter(app => !app.pinned);
   const apps = pinnedApps.concat(featuredApps);
 
   return (
     <Layout
-      title="Quem está usando o Bobotinho?"
-      description="Centenas de canais da Twitch estão usando o Bobotinho, confira essa lista!">
+      title="Canais"
+      description="Lista de canais que adicionaram o Bobotinho">
       <div className="showcaseSection">
         <div className="prose">
           <h1>Quem está usando o Bobotinho?</h1>
-          <p>
-            Centenas de canais da Twitch estão usando o Bobotinho, desde canais pequenos que estão iniciando até comunidades grandes e já reconhecidas na plataforma. Confira essa lista!
-          </p>
+          <p>Centenas de canais da Twitch estão usando o Bobotinho, desde canais pequenos que estão iniciando até comunidades grandes e já reconhecidas na plataforma. Confira essa lista!</p>
         </div>
         <div className="logos">{apps.map(renderApp)}</div>
+        <div className="prose">
+          <p>Adicione também, <a href={'/invite'}>clique aqui</a>!</p>
+        </div>
       </div>
     </Layout>
   );

@@ -7,7 +7,7 @@
   padding: 0 20px;
 
   .channels img {
-    height: 100px;
+    height: 128px;
     border-radius: 50%;
     transition: all 0.25s ease-out;
 
@@ -82,7 +82,7 @@ html[data-theme="dark"] .showcaseSection {
 }
 
 .channels {
-  margin: 30px auto 30px auto;
+  margin: 10px auto 10px auto;
   width: 100%;
   display: inline-block;
   text-align: center;
@@ -126,7 +126,7 @@ html[data-theme="dark"] .showcaseSection {
 
 @media only screen and (min-device-width: 736px) {
   .showcaseSection .channels img {
-    width: 100px;
-    max-height: 100px;
+    width: 128px;
+    max-height: 128px;
   }
 }

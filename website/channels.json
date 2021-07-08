@@ -33,24 +33,24 @@
     "name": "LJoga",
     "icon": "ljoga.JP2",
     "infoLink": "https://twitch.tv/ljoga",
-    "pinned": false
+    "pinned": true
   },
   {
     "name": "Douglassola",
     "icon": "douglassola.JP2",
     "infoLink": "https://twitch.tv/douglassola",
-    "pinned": false
-  },
-  {
-    "name": "OAkinoo",
-    "icon": "oakinoo.JP2",
-    "infoLink": "https://twitch.tv/oakinoo",
-    "pinned": false
+    "pinned": true
   },
   {
     "name": "Noblezito",
     "icon": "noblezito.JP2",
     "infoLink": "https://twitch.tv/noblezito",
+    "pinned": true
+  },
+  {
+    "name": "OAkinoo",
+    "icon": "oakinoo.JP2",
+    "infoLink": "https://twitch.tv/oakinoo",
     "pinned": false
   },
   {
@@ -63,6 +63,12 @@
     "name": "RichJustin",
     "icon": "richjustin.JP2",
     "infoLink": "https://twitch.tv/richjustin",
+    "pinned": false
+  },
+  {
+    "name": "mortos0",
+    "icon": "mortos0.JP2",
+    "infoLink": "https://twitch.tv/mortos0",
     "pinned": false
   },
   {

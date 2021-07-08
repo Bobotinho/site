@@ -1,0 +1,58 @@
+[
+  {
+    "name": "m4ri_i",
+    "icon": "m4ri_i.JP2",
+    "infoLink": "https://twitch.tv/m4ri_i",
+    "pinned": true,
+    "value": "R$30,00"
+  },
+  {
+    "name": "MightyRascall",
+    "icon": "MightyRascall.JP2",
+    "infoLink": "https://twitch.tv/MightyRascall",
+    "pinned": true,
+    "value": "R$25,00"
+  },
+  {
+    "name": "skaaarky",
+    "icon": "skaaarky.JP2",
+    "infoLink": "https://twitch.tv/skaaarky",
+    "pinned": true,
+    "value": "R$7,00"
+  },
+  {
+    "name": "GsPedrosa",
+    "icon": "GsPedrosa.JP2",
+    "infoLink": "https://twitch.tv/GsPedrosa",
+    "pinned": true,
+    "value": "R$6,00"
+  },
+  {
+    "name": "mortos0",
+    "icon": "mortos0.JP2",
+    "infoLink": "https://twitch.tv/mortos0",
+    "pinned": true,
+    "value": "R$5,88"
+  },
+  {
+    "name": "giuubis",
+    "icon": "giuubis.JP2",
+    "infoLink": "https://twitch.tv/giuubis",
+    "pinned": true,
+    "value": "R$5,00"
+  },
+  {
+    "name": "nannimo__",
+    "icon": "nannimo__.JP2",
+    "infoLink": "https://twitch.tv/nannimo__",
+    "pinned": true,
+    "value": "R$5.00"
+  },
+  {
+    "name": "lluan__",
+    "icon": "lluan__.JP2",
+    "infoLink": "https://twitch.tv/lluan__",
+    "pinned": true,
+    "value": "R$2.00"
+  }
+]

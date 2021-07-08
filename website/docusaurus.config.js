@@ -1,4 +1,5 @@
-const users = require('./channels.json');
+const channels = require('./channels.json');
+const sponsors = require('./sponsors.json');
 
 module.exports = {
   title: 'Bobotinho',
@@ -18,7 +19,8 @@ module.exports = {
   favicon: 'img/favicon.ico',
   titleDelimiter: '|',
   customFields: {
-    users
+    channels,
+    sponsors
   },
   i18n: {
     defaultLocale: 'pt',
@@ -142,12 +144,12 @@ module.exports = {
           label: 'Apoiar',
           position: 'left',
         },
-        {
-          label: 'Documentação',
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-        },
+        // {
+        //   label: 'Documentação',
+        //   type: 'doc',
+        //   docId: 'intro',
+        //   position: 'left',
+        // },
         {
           href: 'https://discord.gg/6Ue66Vs5eQ',
           'aria-label': 'Servidor do Discord',
