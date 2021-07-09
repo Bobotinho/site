@@ -17,10 +17,7 @@ const renderApp = (app, i) => {
 };
 
 const renderAppIcon = app => {
-  let imgSource = app.icon;
-  if (!app.icon.startsWith('http')) {
-    imgSource = useBaseUrl('img/channels/' + app.icon);
-  }
+  let imgSource = useBaseUrl('img/channels/' + app.icon);
   return <img src={imgSource} alt={app.name} />;
 };
 

@@ -5,27 +5,30 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 const renderSponsor = (sponsor, i) => {
+  let infoLink = "https://twitch.tv/" + sponsor.name
   return (
     <div className="channels" key={i}>
       <div>
-        <a href={sponsor.infoLink}>{renderSponsorIcon(sponsor)}</a>
+        <a href={infoLink}>{renderSponsorIcon(sponsor)}</a>
         <h3>{sponsor.name}</h3>
-        {renderInfo(sponsor.infoTitle, sponsor.infoLink)}
+        {renderInfo(sponsor.infoTitle, infoLink)}
+        {renderLabel(sponsor.label)}
       </div>
     </div>
   );
 };
 
 const renderSponsorIcon = sponsor => {
-  let imgSource = sponsor.icon;
-  if (!sponsor.icon.startsWith('http')) {
-    imgSource = useBaseUrl('img/sponsors/' + sponsor.icon);
-  }
+  let imgSource = useBaseUrl('img/sponsors/' + sponsor.icon);
   return <img src={imgSource} alt={sponsor.name} />;
 };
 
 const renderInfo = (title, uri) => {
   return uri ? <p className="info"><a href={uri} target="_blank">{title}</a></p> : null;
+};
+
+const renderLabel = (label) => {
+  return label ? <p>{label}</p> : null;
 };
 
 const Sponsors = () => {
@@ -35,6 +38,7 @@ const Sponsors = () => {
   const pinnedApps = showcaseApps.filter(sponsor => sponsor.pinned);
   const featuredApps = showcaseApps.filter(sponsor => !sponsor.pinned);
   const sponsors = pinnedApps.concat(featuredApps);
+  sponsors.sort((a,b) => (a.value < b.value) ? 1 : ((b.value < a.value) ? -1 : 0))
 
   return (
     <Layout

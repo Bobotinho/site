@@ -88,6 +88,7 @@ function Channels() {
 function SponsorsList() {
   const { siteConfig } = useDocusaurusContext();
   const sponsors = siteConfig.customFields.sponsors.filter(sponsor => sponsor.pinned);
+  sponsors.sort((a,b) => (a.value < b.value) ? 1 : ((b.value < a.value) ? -1 : 0))
   return (
     <ul className='SponsorList'>
       {sponsors.map((sponsor, i) => {

@@ -2,140 +2,147 @@
   {
     "name": "skiiiiiiiiiiiiiiii",
     "icon": "skiiiiiiiiiiiiiiii.JP2",
-    "infoLink": "https://twitch.tv/skiiiiiiiiiiiiiiii",
     "pinned": true,
+    "label": "🥉 R$32,14",
     "value": 32.14
   },
   {
     "name": "m4ri_i",
     "icon": "m4ri_i.JP2",
-    "infoLink": "https://twitch.tv/m4ri_i",
     "pinned": true,
+    "label": "🎖️ R$30,00",
     "value": 30.00
   },
   {
     "name": "MightyRascall",
     "icon": "MightyRascall.JP2",
-    "infoLink": "https://twitch.tv/MightyRascall",
     "pinned": true,
     "value": 25.00
   },
   {
     "name": "vanderleyJrr",
     "icon": "vanderleyJrr.JP2",
-    "infoLink": "https://twitch.tv/vanderleyJrr",
     "pinned": true,
-    "value": 20.00
+    "label": "🏆 R$70,00",
+    "value": 70.00
   },
   {
     "name": "Artenks",
     "icon": "Artenks.JP2",
-    "infoLink": "https://twitch.tv/Artenks",
     "pinned": true,
     "value": 15.00
   },
   {
     "name": "Brejelinha",
     "icon": "Brejelinha.JP2",
-    "infoLink": "https://twitch.tv/Brejelinha",
     "pinned": true,
     "value": 10.00
   },
   {
     "name": "skaaarky",
     "icon": "skaaarky.JP2",
-    "infoLink": "https://twitch.tv/skaaarky",
     "pinned": true,
     "value": 7.00
   },
   {
     "name": "nannimo__",
     "icon": "nannimo__.JP2",
-    "infoLink": "https://twitch.tv/nannimo__",
     "pinned": true,
     "value": 6.23
   },
   {
     "name": "GsPedrosa",
     "icon": "GsPedrosa.JP2",
-    "infoLink": "https://twitch.tv/GsPedrosa",
     "pinned": true,
     "value": 6.00
   },
   {
     "name": "mortos0",
     "icon": "mortos0.JP2",
-    "infoLink": "https://twitch.tv/mortos0",
     "pinned": true,
     "value": 5.88
   },
   {
     "name": "richjustin",
     "icon": "richjustin.JP2",
-    "infoLink": "https://twitch.tv/richjustin",
     "pinned": true,
     "value": 5.88
   },
   {
     "name": "beaz0ka",
     "icon": "beaz0ka.JP2",
-    "infoLink": "https://twitch.tv/beaz0ka",
     "pinned": true,
     "value": 5.81
   },
   {
     "name": "giuubis",
     "icon": "giuubis.JP2",
-    "infoLink": "https://twitch.tv/giuubis",
     "pinned": true,
-    "value": 5.00
+    "value": 10.00
   },
   {
     "name": "viiicc_",
     "icon": "viiicc_.JP2",
-    "infoLink": "https://twitch.tv/viiicc_",
     "pinned": true,
     "value": 5.00
   },
   {
     "name": "Dimensionalmente",
     "icon": "Dimensionalmente.JP2",
-    "infoLink": "https://twitch.tv/Dimensionalmente",
+    "pinned": true,
+    "value": 5.00
+  },
+  {
+    "name": "boona_",
+    "icon": "boona_.JP2",
     "pinned": true,
     "value": 5.00
   },
   {
     "name": "RockySZ",
     "icon": "RockySZ.JP2",
-    "infoLink": "https://twitch.tv/RockySZ",
     "pinned": true,
     "value": 5.00
   },
   {
+    "name": "imdressa",
+    "icon": "imdressa.JP2",
+    "pinned": true,
+    "value": 3.00
+  },
+  {
     "name": "lluan__",
     "icon": "lluan__.JP2",
-    "infoLink": "https://twitch.tv/lluan__",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "AuroraShow",
+    "icon": "AuroraShow.JP2",
+    "pinned": true,
+    "value": 3.68
+  },
+  {
+    "name": "Isassw",
+    "icon": "Isassw.JP2",
     "pinned": true,
     "value": 2.00
   },
   {
     "name": "biaib",
     "icon": "biaib.JP2",
-    "infoLink": "https://twitch.tv/biaib",
     "pinned": true,
     "value": 1.00
   },
   {
     "name": "paankeki",
     "icon": "paankeki.JP2",
-    "infoLink": "https://twitch.tv/paankeki",
     "pinned": true,
     "value": 1.00
   },
   {
     "name": "alphex2",
     "icon": "alphex2.JP2",
-    "infoLink": "https://twitch.tv/alphex2",
     "pinned": true,
     "value": 1.00
   },
@@ -146,21 +153,82 @@
     "value": 5.88
   },
   {
-    "name": "Marcos T. F. F.",
-    "icon": "default_2.JP2",
-    "pinned": false,
+    "name": "mafe_cor7",
+    "icon": "mafe_cor7.JP2",
+    "pinned": true,
+    "value": 1.68
+  },
+  {
+    "name": "aiisim",
+    "icon": "aiisim.JP2",
+    "pinned": true,
+    "value": 1.68
+  },
+  {
+    "name": "angiemartiiins",
+    "icon": "angiemartiiins.JP2",
+    "pinned": true,
     "value": 5.00
   },
   {
-    "name": "Andressa M. D.",
-    "icon": "default_3.JP2",
-    "pinned": false,
-    "value": 3.00
+    "name": "oDggo",
+    "icon": "oDggo.JP2",
+    "pinned": true,
+    "value": 3.10
   },
   {
-    "name": "Maria I. N.",
-    "icon": "default_4.JP2",
+    "name": "anajusg",
+    "icon": "anajusg.JP2",
+    "pinned": true,
+    "value": 2.27
+  },
+  {
+    "name": "GuiCraft_",
+    "icon": "GuiCraft_.JP2",
+    "pinned": true,
+    "label": "🥈 R$51,80",
+    "value": 51.80
+  },
+  {
+    "name": "joaoocaruso",
+    "icon": "joaoocaruso.JP2",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "h_beauchamp",
+    "icon": "h_beauchamp.JP2",
+    "pinned": true,
+    "value": 1.75
+  },
+  {
+    "name": "cat_ribas",
+    "icon": "cat_ribas.JP2",
+    "pinned": true,
+    "value": 12.03
+  },
+  {
+    "name": "Hellen A. S.",
+    "icon": "default_2.JP2",
     "pinned": false,
     "value": 2.00
+  },
+  {
+    "name": "Hickaro K. S. S.",
+    "icon": "default_3.JP2",
+    "pinned": false,
+    "value": 8.00
+  },
+  {
+    "name": "isaguimaraws",
+    "icon": "isaguimaraws.JP2",
+    "pinned": true,
+    "value": 6.70
+  },
+  {
+    "name": "Rafael G. V.",
+    "icon": "default_4.JP2",
+    "pinned": false,
+    "value": 15.00
   }
 ]
