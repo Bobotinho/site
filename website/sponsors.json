@@ -28,6 +28,13 @@
     "value": 20.00
   },
   {
+    "name": "Artenks",
+    "icon": "Artenks.JP2",
+    "infoLink": "https://twitch.tv/Artenks",
+    "pinned": true,
+    "value": 15.00
+  },
+  {
     "name": "Brejelinha",
     "icon": "Brejelinha.JP2",
     "infoLink": "https://twitch.tv/Brejelinha",
@@ -131,12 +138,6 @@
     "infoLink": "https://twitch.tv/alphex2",
     "pinned": true,
     "value": 1.00
-  },
-  {
-    "name": "Karla L. S. O.",
-    "icon": "default_4.JP2",
-    "pinned": false,
-    "value": 15.00
   },
   {
     "name": "Filipe V.",
