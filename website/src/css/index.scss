@@ -229,6 +229,10 @@
   .Sponsors .column.first {
     border-right: 1px solid var(--ifm-table-border-color);
   }
+
+  .Sponsors .column.last {
+    margin-top: -3rem;
+  }
 }
 
 /* Widget */

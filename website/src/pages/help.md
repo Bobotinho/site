@@ -18,9 +18,9 @@ Você pode mencionar o Bobotinho e dizer o que quiser saber, ele identificará q
 
 Comandos gerais que contém informações básicas sobre o bot.
 
-| Nome    | Descrição                                                                      |
-| :------ | :----------------------------------------------------------------------------- |
-| arts    | Receba o link das artes do bot                                                 |
+| Nome    | Descrição                                                                        |
+| :------ | :------------------------------------------------------------------------------- |
+| arts    | Receba o link das artes do bot                                                   |
 | bot <div class="label mono">IA</div> | Veja as principais informações sobre o bot          |
 | donate <div class="label blue">NOVO</div> | Receba o link para apoiar o bot                |
 | help <div class="label mono">IA</div> | Receba o link da lista de comandos ou veja como utilizar um comando específico |
@@ -29,7 +29,7 @@ Comandos gerais que contém informações básicas sobre o bot.
 | ping <div class="label mono">IA</div> | Verifique se o bot está online                     |
 | site <div class="label mono">IA</div> | Receba o link do site do bot para mais informações |
 | status <div class="label blue">NOVO</div> | Receba o link para ver o status dos softwares do bot |
-| suggest | Faça uma sugestão de recurso para o bot                                        |
+| suggest | Faça uma sugestão de recurso para o bot                                          |
 | uptime <div class="label mono">IA</div> | Verifique há quanto tempo o bot está online      |
 
 ## Administração
