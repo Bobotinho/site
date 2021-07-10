@@ -92,10 +92,11 @@ function SponsorsList() {
   return (
     <ul className='SponsorList'>
       {sponsors.map((sponsor, i) => {
-        const imgSource = sponsor.icon.startsWith('http') ? sponsor.icon : useBaseUrl('img/sponsors/' + sponsor.icon);
+        const infoLink = "https://twitch.tv/" + sponsor.name
+        const imgSource = useBaseUrl('img/sponsors/' + sponsor.icon);
         return (
           <li key={i} className='item'>
-            <a href={sponsor.infoLink}><img src={imgSource} alt={sponsor.name} /></a>
+            <a href={infoLink}><img src={imgSource} alt={sponsor.name} /></a>
           </li>
         );
       })}
@@ -112,7 +113,7 @@ function Sponsors() {
           <div className={`column first left}`}>
             <p>
               O Bobotinho foi criado em abril de 2020,
-              idealizado e mantido por <a href='https://twitch.tv/discretinho'>@discretinho</a>.
+              idealizado e mantido por <a href='https://github.com/leandcesar'>@leandcesar</a>.
             </p>
             <p>Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>    
             <p>O crescimento vem da contribuição, e agradeço a todos que contribuiram de alguma forma.</p>

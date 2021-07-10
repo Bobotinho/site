@@ -199,7 +199,7 @@
     "name": "h_beauchamp",
     "icon": "h_beauchamp.JP2",
     "pinned": true,
-    "value": 1.75
+    "value": 3.75
   },
   {
     "name": "cat_ribas",
@@ -208,15 +208,9 @@
     "value": 12.03
   },
   {
-    "name": "Hellen A. S.",
-    "icon": "default_2.JP2",
-    "pinned": false,
-    "value": 2.00
-  },
-  {
-    "name": "Hickaro K. S. S.",
-    "icon": "default_3.JP2",
-    "pinned": false,
+    "name": "souhickaro",
+    "icon": "souhickaro.JP2",
+    "pinned": true,
     "value": 8.00
   },
   {
@@ -230,5 +224,23 @@
     "icon": "default_4.JP2",
     "pinned": false,
     "value": 15.00
+  },
+  {
+    "name": "vitorfluminense",
+    "icon": "vitorfluminense.JP2",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "Eduardrich",
+    "icon": "Eduardrich.JP2",
+    "pinned": true,
+    "value": 8.00
+  },
+  {
+    "name": "stJUNO",
+    "icon": "stJUNO.JP2",
+    "pinned": true,
+    "value": 3.33
   }
 ]
