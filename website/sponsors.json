@@ -3,14 +3,13 @@
     "name": "skiiiiiiiiiiiiiiii",
     "icon": "skiiiiiiiiiiiiiiii.JP2",
     "pinned": true,
-    "label": "🥉 R$32,14",
+    "label": "🎖️ R$32,14",
     "value": 32.14
   },
   {
     "name": "m4ri_i",
     "icon": "m4ri_i.JP2",
     "pinned": true,
-    "label": "🎖️ R$30,00",
     "value": 30.00
   },
   {
@@ -238,9 +237,40 @@
     "value": 8.00
   },
   {
-    "name": "stJUNO",
-    "icon": "stJUNO.JP2",
+    "name": "stJUN0",
+    "icon": "stJUN0.JP2",
     "pinned": true,
     "value": 3.33
+  },
+  {
+    "name": "alquemisty_",
+    "icon": "alquemisty_.JP2",
+    "pinned": true,
+    "value": 5.00
+  },
+  {
+    "name": "tnvine",
+    "icon": "tnvine.JP2",
+    "pinned": true,
+    "label": "🥉 R$40,00",
+    "value": 40.00
+  },
+  {
+    "name": "RodrigoDFlores",
+    "icon": "RodrigoDFlores.JP2",
+    "pinned": true,
+    "value": 1.20
+  },
+  {
+    "name": "kkalfoy",
+    "icon": "kkalfoy.JP2",
+    "pinned": true,
+    "value": 2.70
+  },
+  {
+    "name": "viniosabio",
+    "icon": "viniosabio.JP2",
+    "pinned": true,
+    "value": 5.00
   }
 ]

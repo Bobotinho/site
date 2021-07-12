@@ -14,6 +14,6 @@ Isso provavelmente ocorreu porque:
 - Você não autorizou o aplicativo do Bobotinho ter acesso a suas informações da Twitch;
 - Você já tem o Bobotinho adicionado no seu canal.
 
-Se você já tiver adicionado o Bobotinho, mas ele não responde, certifique-se de que se seu chat **não esteja no modo "apenas seguidores"** ou que o Bobotinho tenha um **cargo de VIP ou MOD**.
+Se você já tiver adicionado o Bobotinho, mas ele não responde, certifique-se de que seu chat **não esteja no modo "apenas seguidores"** ou que o Bobotinho tenha um **cargo de VIP ou MOD**.
 
 Caso nenhuma das situações acima se aplique, entre em contato com o desenvolvedor pelo nosso [**💻 canal do Discord**](https://discord.gg/6Ue66Vs5eQ).

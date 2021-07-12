@@ -59,7 +59,7 @@ Todo o valor arrecadado será para cobrir os custos de:
 - Hospedagem: **U$7,00/mês** (~R$36,00);
 - Banco de dados: **U$9,00/mês** (~R$46,30);
 - Reserva: caso ultrapasse o valor mensal necessário, o valor extra será guardado para as contas do mês seguinte;
-- Sorteio de sub ou Nitro²: caso ultrapasse o valor mensal necessário, os doardores estarão automaticamente participando de um sorteio (leia a nota de rodapé).
+- Sorteio de sub ou Nitro²: caso ultrapasse o valor mensal necessário, os doadores estarão automaticamente participando de um sorteio (leia a nota de rodapé).
 
 ## Antes de doar...
 
