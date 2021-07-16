@@ -122,10 +122,10 @@
     "value": 3.68
   },
   {
-    "name": "Isassw",
-    "icon": "Isassw.JP2",
+    "name": "isassw",
+    "icon": "isassw.JP2",
     "pinned": true,
-    "value": 2.00
+    "value": 6.00
   },
   {
     "name": "biaib",
@@ -316,9 +316,9 @@
     "value": 21.64
   },
   {
-    "name": "Daniel M. da S.",
-    "icon": "default_2.JP2",
-    "pinned": false,
+    "name": "http_isla",
+    "icon": "http_isla.JP2",
+    "pinned": true,
     "value": 2.50
   },
   {
@@ -340,15 +340,21 @@
     "value": 2.00
   },
   {
-    "name": "isassw",
-    "icon": "isassw.JP2",
-    "pinned": true,
-    "value": 4.00
-  },
-  {
     "name": "piantinhas",
     "icon": "piantinhas.JP2",
     "pinned": true,
     "value": 1.00
+  },
+  {
+    "name": "rafa_morais",
+    "icon": "rafa_morais.JP2",
+    "pinned": true,
+    "value": 4.00
+  },
+  {
+    "name": "chucr3",
+    "icon": "chucr3.JP2",
+    "pinned": true,
+    "value": 2.00
   }
 ]
