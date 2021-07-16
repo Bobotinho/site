@@ -201,19 +201,15 @@ module.exports = {
           ],
         },
         {
-          title: 'Documentação',
+          title: 'Outros',
           items: [
             {
-              label: 'Introdução',
-              to: 'docs/intro',
+              label: 'Canais',
+              to: 'channels',
             },
             {
-              label: "Dúvidas",
-              to: 'docs/faq',
-            },
-            {
-              label: 'Contribuir',
-              to: 'docs/contribute',
+              label: "Apoiadores",
+              to: 'sponsors',
             },
           ],
         },

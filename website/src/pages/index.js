@@ -20,6 +20,7 @@ function Header() {
       <p className='tagline' align='center'>Melhore a experiência do seu chat off-stream</p>
       <div className='buttons' align='center'>
         <a className='ActionButton white' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
+        <a className='ActionButton brand' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a>
       </div>
     </Section>
   );
@@ -193,6 +194,7 @@ function GetStarted() {
         <p>Sem senhas, sem formulários, sem enrolações!</p>
         <div className='buttons' align='center'>
           <a className='ActionButton brand' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
+          <a className='ActionButton light' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a>
         </div>
       </div>
     </Section>
