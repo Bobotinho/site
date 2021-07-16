@@ -146,12 +146,6 @@
     "value": 1.00
   },
   {
-    "name": "Filipe V.",
-    "icon": "default_1.JP2",
-    "pinned": false,
-    "value": 5.88
-  },
-  {
     "name": "mafe_cor7",
     "icon": "mafe_cor7.JP2",
     "pinned": true,
@@ -219,9 +213,9 @@
     "value": 6.70
   },
   {
-    "name": "Rafael G. V.",
-    "icon": "default_4.JP2",
-    "pinned": false,
+    "name": "rafaelvalerio_",
+    "icon": "rafaelvalerio_.JP2",
+    "pinned": true,
     "value": 15.00
   },
   {
@@ -272,5 +266,89 @@
     "icon": "viniosabio.JP2",
     "pinned": true,
     "value": 5.00
+  },
+  {
+    "name": "maryypls",
+    "icon": "maryypls.JP2",
+    "pinned": true,
+    "value": 10.00
+  },
+  {
+    "name": "milylaa",
+    "icon": "milylaa.JP2",
+    "pinned": true,
+    "value": 10.00
+  },
+  {
+    "name": "l3pty",
+    "icon": "l3pty.JP2",
+    "pinned": true,
+    "value": 1.00
+  },
+  {
+    "name": "tiblles",
+    "icon": "tiblles.JP2",
+    "pinned": true,
+    "value": 6.80
+  },
+  {
+    "name": "Whitehoopa__",
+    "icon": "Whitehoopa__.JP2",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "ChristianPagio",
+    "icon": "ChristianPagio.JP2",
+    "pinned": true,
+    "value": 5.00
+  },
+  {
+    "name": "Maurício M.",
+    "icon": "default_1.JP2",
+    "pinned": false,
+    "value": 1.00
+  },
+  {
+    "name": "Domzinhoo",
+    "icon": "Domzinhoo.JP2",
+    "pinned": true,
+    "value": 21.64
+  },
+  {
+    "name": "Daniel M. da S.",
+    "icon": "default_2.JP2",
+    "pinned": false,
+    "value": 2.50
+  },
+  {
+    "name": "hashl_",
+    "icon": "hashl_.JP2",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "caverona",
+    "icon": "caverona.JP2",
+    "pinned": true,
+    "value": 10.00
+  },
+  {
+    "name": "arthurartart",
+    "icon": "arthurartart.JP2",
+    "pinned": true,
+    "value": 2.00
+  },
+  {
+    "name": "isassw",
+    "icon": "isassw.JP2",
+    "pinned": true,
+    "value": 4.00
+  },
+  {
+    "name": "piantinhas",
+    "icon": "piantinhas.JP2",
+    "pinned": true,
+    "value": 1.00
   }
 ]
