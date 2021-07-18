@@ -33,18 +33,18 @@ Se você clicou na opção que desejava e não conseguiu ser redirecionado, por 
 
 Para agradecer a sua doação, teremos algumas vantagens para você! Elas ainda estão sendo implementadas, mas mesmo que você doe agora, será recompensado quando estiverem prontas!
 
-| Recompensa              | Descrição                                                                                 |
-| :---------------------- | :---------------------------------------------------------------------------------------- |
-| **"Badge" exclusiva**   | Seu @usuário com um emoji estiloso ao lado de todas as menções do bot!                    |
-| **Sem cooldown**        | Use os comandos sem esperar os 10 segundos de cooldown!                                   |
-| **Cookies extra**       | Receba 10 cookies para cada 1 real doado!                                                 |
-| **Dobro de daily**      | Ganhe o dobro de cookie diário! <div class="label blue">Em breve</div>                    |
-| **Dobro de XP**         | Ganhe o dobro de XP nas Dungeons! <div class="label blue">Em breve</div>                  |
-| **Triplo de lembretes** | Limite de 7 lembretes? Esqueça, serão mais de 20!                                         |
-| **Poligamia¹** 🔥       | Já está casado no Bobotinho? Case-se mais uma vez! <div class="label blue">Em breve</div> |
-| **Hall da fama**        | Seu nome na página de [Apoiadores](/sponsors) do Bobotinho!                               |
-| **Cargo no Discord**    | Um cargo elegante no [servidor do Bobotinho](https://discord.gg/6Ue66Vs5eQ)               |
-| **Sub ou Nitro²** 🔥    | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro!          |
+| Recompensa              | Descrição                                                                        |
+| :---------------------- | :--------------------------------------------------------------------------------|
+| **"Badge" exclusiva**   | Seu @usuário com um emoji estiloso ao lado de todas as menções do bot!           |
+| **Sem cooldown**        | Use os comandos sem esperar os 10 segundos de cooldown!                          |
+| **Cookies extra**       | Receba 10 cookies para cada 1 real doado!                                        |
+| **Dobro de daily**      | Ganhe o dobro de cookie diário!                                                  |
+| **Dobro de XP**         | Ganhe o dobro de XP nas Dungeons!                                                |
+| **Triplo de lembretes** | Limite de 7 lembretes? Esqueça, serão mais de 20!                                |
+| **Poligamia¹** 🔥       | Já está casado no Bobotinho? Case-se mais uma vez!                               |
+| **Hall da fama**        | Seu nome na página de [Apoiadores](/sponsors) do Bobotinho!                      |
+| **Cargo no Discord**    | Um cargo elegante no [servidor do Bobotinho](https://discord.gg/6Ue66Vs5eQ)      |
+| **Sub ou Nitro²** 🔥    | Se a meta mensal for ultrapassada, concorra à um sub na Twitch ou Discord Nitro! |
 
 > Nota: as recompensas são aplicáveis para quem doar valores acima de R$1,00
 

@@ -36,70 +36,71 @@ Comandos gerais que contém informações básicas sobre o bot.
 
 Para os moderadores do canal controlarem o bot.
 
-| Nome    | Descrição                                              |
-| :------ | :----------------------------------------------------- |
+| Nome    | Descrição                                                                                 |
+| :------ | :---------------------------------------------------------------------------------------- |
 | banword <div class="label green">MOD</div> | Adicione (**`+`**) ou remova (**`-`**) um termo banido |
-| cmd <div class="label green">MOD</div> | Ative (**`+`**) ou desative (**`-`**) um comando       |
-| start <div class="label green">MOD</div> | Reative o bot                                        |
-| stop <div class="label green">MOD</div> | Desative o bot                                        |
+| cmd <div class="label green">MOD</div> | Ative (**`+`**) ou desative (**`-`**) um comando           |
+| start <div class="label green">MOD</div> | Reative o bot                                            |
+| stop <div class="label green">MOD</div> | Desative o bot                                            |
 
 ## Informativo
 
 Relacionados às informações de usuários da Twitch!
 
-| Nome        | Descrição                                                                    |
-| :---------- | :--------------------------------------------------------------------------- |
+| Nome        | Descrição                                                                      |
+| :---------- | :----------------------------------------------------------------------------- |
 | age <div class="label mono">IA</div> | Saiba há quanto tempo algum usuário criou sua conta   |
 | color <div class="label mono">IA</div> | Saiba o código hexadecimal da cor de algum usuário  |
 | creation <div class="label mono">IA</div> | Saiba quando algum usuário criou sua conta       |
 | firstfollow <div class="label mono">IA</div> | Saiba o primeiro seguidor e o primeiro canal seguido de algum usuário |
-| followage   | Saiba há quanto tempo algum usuário segue algum canal |
-| followed    | Saiba quando algum usuário seguiu algum canal                                |
-| savecolor <div class="label mono">IA</div> | Salve um código hexadecimal de cor              |
+| followage   | Saiba há quanto tempo algum usuário segue algum canal                          |
+| followed    | Saiba quando algum usuário seguiu algum canal                                  |
 
-## Status
+## Personalização
 
-Saiba se um usuário está ou não no chat.
+Personalize e salve dados para deixar sua experiência com o Bot como desejar.
 
-| Nome     | Descrição                                      |
-| :------- | :--------------------------------------------- |
-| afk      | Informe que você está se ausentando do chat    |
-| isafk    | Saiba se algum usuário está afk                |
-| lastseen <div class="label mono">IA</div> | Saiba a última vez que algum usuário foi visto |
+| Nome     | Descrição                                                                                                     |
+| :------- | :------------------------------------------------------------------------------------------------------------ |
+| badge <div class="label blue">NOVO</div> <div class="label brand">APOIADOR</div> | Defina a sua badge de apoiador        |
 | mention <div class="label blue">NOVO</div> | Permita que outros usuários utilizem comandos direcionados a você novamente |
-| rafk     | Retome seu status de ausência anterior do chat |
-| unmention <div class="label blue">NOVO</div> | Impeça que outros usuários utilizem comandos direcionados a você |
+| savecity  | Salve sua cidade para agilizar a previsão do tempo                                                           |
+| savecolor <div class="label mono">IA</div> | Salve um código hexadecimal de cor                                          |
+| unmention <div class="label blue">NOVO</div> | Impeça que outros usuários utilizem comandos direcionados a você          |
 
 
 ## Utilitários
 
 Comandos úteis com ferramentas para facilitar e agilizar sua vida!
 
-| Nome      | Descrição                                              |
-| :-------- | :----------------------------------------------------- |
-| crypto    | Saiba o valor da conversão de uma criptomoeda em reais |
-| currency  | Saiba o valor da conversão de uma moeda em reais       |
-| math      | Saiba o resultado de alguma expressão matemática       |
-| remind    | Deixe um lembrete para algum usuário                   |
-| savecity <div class="label blue">NOVO</div> | Salve sua cidade para agilizar a previsão do tempo |
-| translate | Saiba a tradução de alguma mensagem                    |
-| weather <div class="label mono">IA</div> | Saiba o clima atual de alguma cidade |
+| Nome      | Descrição                                                                      |
+| :-------- | :----------------------------------------------------------------------------- |
+| afk         | Informe que você está se ausentando do chat                                  |
+| crypto    | Saiba o valor da conversão de uma criptomoeda em reais                         |
+| currency  | Saiba o valor da conversão de uma moeda em reais                               |
+| isafk       | Saiba se algum usuário está afk                                              |
+| lastseen <div class="label mono">IA</div> | Saiba a última vez que algum usuário foi visto |
+| math      | Saiba o resultado de alguma expressão matemática                               |
+| rafk        | Retome seu status de ausência anterior do chat                               |
+| remind    | Deixe um lembrete para algum usuário                                           |
+| translate | Saiba a tradução de alguma mensagem                                            |
+| weather <div class="label mono">IA</div> | Saiba o clima atual de alguma cidade            |
 
 ## Diversão
 
 Comandos relacionados ao entreterimento, como jogos, piadas e ações para interagir com outros usuários!
 
-| Nome    | Descrição                                                            |
-| :------ | :------------------------------------------------------------------- |
+| Nome    | Descrição                                              |
+| :------ | :----------------------------------------------------- |
 | 4head <div class="label mono">IA</div> | Receba uma piada, charada ou trocadilho |
-| 8ball   | Tenha sua pergunta respondida com uma previsão do bot                |
-| fight   | Desafie alguém do chat para lutar                                    |
-| hug     | Dê um abraço em alguém do chat                                       |
-| jokenpo | Tente vencer o pedra, papel e tesoura                                |
-| kiss    | Dê um beijinho em alguém do chat                                     |
-| love    | Veja quanto de amor existe entre você e alguém ou algo               |
-| ship    | Faça um ship entre o nome de duas pessoas                            |
-| tuck    | Coloque alguém do chat na cama para dormir                           |
+| 8ball   | Tenha sua pergunta respondida com uma previsão do bot  |
+| fight   | Desafie alguém do chat para lutar                      |
+| hug     | Dê um abraço em alguém do chat                         |
+| jokenpo | Tente vencer o pedra, papel e tesoura                  |
+| kiss    | Dê um beijinho em alguém do chat                       |
+| love    | Veja quanto de amor existe entre você e alguém ou algo |
+| ship    | Faça um ship entre o nome de duas pessoas              |
+| tuck    | Coloque alguém do chat na cama para dormir             |
 
 ## Cookies
 
@@ -115,6 +116,7 @@ Todos os usuários ganham 1 cookie por dia e existem diversas formas de gastá-l
 | stock       | Estoque o seu cookie diário, caso não queira usá-lo         |
 | top         | Veja quais são os maiores comedores de cookies              |
 | marriage    | Saiba há quanto tempo algum usuário está casado	            |
+| married <div class="label blue">NOVO</div> | Saiba há quanto tempo algum usuário está casado |
 | marry       | Case-se com alguém, mas isso lhe custará cookies            | 
 
 ## Pets

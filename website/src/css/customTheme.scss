@@ -1170,6 +1170,14 @@ html[data-theme="dark"] .label {
       border-right-color: #4cb424;
     }
   }
+
+  &.brand {
+    background: var(--brand);
+
+    &:before {
+      border-right-color: var(--brand);
+    }
+  }
 }
 
 /* Label inside other tags */
