@@ -1,7 +1,19 @@
 {
-  "docs": [
-    "intro",
-    "faq",
-    "contribute"
-  ]
+  "docs": {
+    "Comandos": [
+      "help",
+      "admin",
+      "basics",
+      "marry",
+      "cookies",
+      "fun",
+      "dungeons",
+      "infos",
+      "games",
+      "preferences",
+      "pets",
+      "randomic",
+      "tools"
+    ]
+  }
 }

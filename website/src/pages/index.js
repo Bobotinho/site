@@ -20,7 +20,7 @@ function Header() {
       <p className='tagline' align='center'>Melhore a experiência do seu chat off-stream</p>
       <div className='buttons' align='center'>
         <a className='ActionButton white' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
-        <a className='ActionButton brand' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a>
+        {/* <a className='ActionButton brand' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a> */}
       </div>
     </Section>
   );
@@ -39,7 +39,7 @@ function Features() {
           <div className={`column middle}`}>
             <img src='img/homepage/click.svg' />
             <h2 className='Heading' align='center'>Adicione rapidamente</h2>
-            <p>Solicite usando sua conta da Twitch! Com 2 cliques, o Bobotinho estará no seu chat em até 60 segundos.</p>
+            <p>Solicite usando sua conta da Twitch! Com 2 cliques, o Bobotinho estará no seu chat em até 30 segundos.</p>
           </div>
           <div className={`column last}`}>
             <img src='img/homepage/cloud.svg' />
@@ -76,7 +76,7 @@ function Channels() {
         <h2 className='Heading'>Para todo tipo de canal</h2>
         <div className={`OneColumn`}>
           <div className={`column first}`}>
-            <p>O Bobotinho está em centenas de canais da Twitch, dentre eles:</p>
+            <p>O Bobotinho está em centenas de canais da Twitch:</p>
             <AppList />
             <p>E <a href={useBaseUrl(`channels`)}>muitos outros</a>.</p>
           </div>
@@ -92,7 +92,7 @@ function SponsorsList() {
   sponsors.sort((a,b) => (a.value < b.value) ? 1 : ((b.value < a.value) ? -1 : 0))
   return (
     <ul className='SponsorList'>
-      {sponsors.map((sponsor, i) => {
+      {sponsors.slice(0, 40).map((sponsor, i) => {
         const infoLink = "https://twitch.tv/" + sponsor.name
         const imgSource = useBaseUrl('img/sponsors/' + sponsor.icon);
         return (
@@ -115,10 +115,11 @@ function Sponsors() {
             <p>
               O Bobotinho foi criado em abril de 2020,
               idealizado e mantido por <a href='https://github.com/leandcesar'>@leandcesar</a>.
+              Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>    
+            <p>
+              O crescimento vem da contribuição, e agradeço a todos que contribuiram de alguma forma.
+              E um agradecimento especial aos <a href='/sponsors'>apoiadores</a>! 💜
             </p>
-            <p>Ele surgiu pela necessidade da comunidade, e suas funcionalidades sempre são originadas dela.</p>    
-            <p>O crescimento vem da contribuição, e agradeço a todos que contribuiram de alguma forma.</p>
-            <p>E um agradecimento especial aos <a href='/sponsors'>apoiadores</a>! 💜</p>
           </div>
           <div className={`column last right`}>
             <SponsorsList />
@@ -133,16 +134,16 @@ function Discord() {
   return (
     <Section className='Widget' background='light'>
       <div className='content'>
-        <h2 className='Heading'>Suporte e dúvidas</h2>
+        <h2 className='Heading'>Novidades e suporte</h2>
         <div className={`TwoColumns`}>
           <div className={`column first left}`}>
             <p>
-              Seja uma dúvida, uma sugestão ou um problema relacionado ao Bobotinho,
-              você com certeza será respondido se utilizar o <a href={'https://discord.gg/6Ue66Vs5eQ'}>servidor do Discord</a>.
+              Fique por dentro de todas as novidades que foram e serão implementadas no Bobotinho.
+              Venha fazer parte da nossa <a href={'https://discord.gg/6Ue66Vs5eQ'}>comunidade do Discord</a>!
             </p>
             <p>
-              Você também poderá acompanhar quais funcionalidades estão sendo implementadas
-              e o que está sendo planejado para o futuro.
+              Além disso, qualquer dúvida, sugestão ou problema relacionado ao Bobotinho
+              podem ser resolvidos contatando o suporte nos canais do servidor.
             </p>
           </div>
           <div className={`column last right`}>
@@ -194,7 +195,7 @@ function GetStarted() {
         <p>Sem senhas, sem formulários, sem enrolações!</p>
         <div className='buttons' align='center'>
           <a className='ActionButton brand' href={useBaseUrl(`invite`)} target='_self'>Adicionar</a>
-          <a className='ActionButton light' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a>
+          {/* <a className='ActionButton light' href={useBaseUrl(`donate`)} target='_self'>Apoiar</a> */}
         </div>
       </div>
     </Section>

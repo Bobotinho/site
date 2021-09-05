@@ -38,15 +38,6 @@ module.exports = {
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
         },
-        blog: {
-          path: '../blog',
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'Todas as postagens',
-          feedOptions: {
-            type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
-          },
-        },
         theme: {
           customCss: [
             require.resolve('./src/css/customTheme.scss'),
@@ -59,7 +50,7 @@ module.exports = {
   ],
   plugins: [
     'docusaurus-plugin-sass',
-    './sitePlugin',
+    // './sitePlugin',
     [
       '@docusaurus/plugin-pwa',
       {
@@ -126,28 +117,18 @@ module.exports = {
       items: [
         {
           label: 'Comandos',
-          to: '/help',
+          type: 'doc',
+          docId: 'help',
           position: 'left',
         },
         {
           label: 'Status',
-          to: '/status',
-          position: 'left',
-        },
-        {
-          to: '/blog',
-          label: 'Blog',
-          position: 'left',
-        },
-        {
-          to: '/donate',
-          label: 'Apoiar',
+          to: 'https://stats.uptimerobot.com/EQQpJSWDE5',
           position: 'left',
         },
         // {
-        //   label: 'Documentação',
-        //   type: 'doc',
-        //   docId: 'intro',
+        //   to: '/donate',
+        //   label: 'Apoiar',
         //   position: 'left',
         // },
         {
@@ -184,20 +165,16 @@ module.exports = {
           items: [
             {
               label: 'Comandos',
-              to: 'help',
+              to: 'docs/help',
             },
             {
               label: 'Status',
-              to: 'status',
+              to: 'https://stats.uptimerobot.com/EQQpJSWDE5',
             },
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'Apoiar',
-              to: 'donate',
-            },
+            // {
+            //   label: 'Apoiar',
+            //   to: 'donate',
+            // },
           ],
         },
         {
