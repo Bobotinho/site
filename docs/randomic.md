@@ -25,6 +25,9 @@ Tenha sua pergunta respondida por uma previsão
 %8ball <alguma pergunta para ser prevista>
 ```
 
+### `penis`
+É... é isso mesmo
+
 ### `pick`
 Sorteia uma palavra da mensagem informada
 ```
