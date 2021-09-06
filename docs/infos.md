@@ -1,6 +1,6 @@
 ---
 id: infos
-title: Informação
+title: Informações
 ---
 
 Obtenha informações de usuários da Twitch!

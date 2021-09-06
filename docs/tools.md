@@ -40,7 +40,7 @@ Saiba o resultado de alguma expressão matemática
 > **Nota:** para multiplicar, use `*`; para dividir, use `/`; para expoente, use `^`; para expressões mais complexas, consulte: [mathjs.org](https://mathjs.org/docs)
 
 ### `movie`
-Recebe informações ou sugestões de filme, e até onde assistí-lo
+Receba informações ou sugestões de filme, e até onde assistí-lo
 ```
 %movie <nome ou URL do IMDb do filme>
 ```
@@ -104,7 +104,7 @@ Saiba a tradução de alguma mensagem
 ```
 
 ### `tv`
-Recebe informações ou sugestões de uma série, e até onde assistí-la
+Receba informações ou sugestões de uma série, e até onde assistí-la
 ```
 %tv <nome ou URL do IMDb da série>
 ```
