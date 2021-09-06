@@ -9,13 +9,6 @@ module.exports = {
   url: 'https://bobotinho.vercel.app',
   baseUrl: '/',
   clientModules: [require.resolve('./snackPlayerInitializer.js')],
-  scripts: [
-    {
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-      "data-ad-client": "ca-pub-9086444938175463",
-      async: true
-    }
-  ],
   favicon: 'img/favicon.ico',
   titleDelimiter: '|',
   customFields: {
@@ -33,8 +26,7 @@ module.exports = {
       {
         docs: {
           showLastUpdateAuthor: false,
-          showLastUpdateTime: false,
-          editUrl: 'https://github.com/leandcesar/bobotinho-site/tree/main/',
+          showLastUpdateTime: true,
           path: '../docs',
           sidebarPath: require.resolve('./sidebars.json'),
         },
@@ -50,7 +42,6 @@ module.exports = {
   ],
   plugins: [
     'docusaurus-plugin-sass',
-    // './sitePlugin',
     [
       '@docusaurus/plugin-pwa',
       {
