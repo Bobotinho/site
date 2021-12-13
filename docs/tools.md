@@ -39,30 +39,6 @@ Saiba o resultado de alguma expressão matemática
 ```
 > **Nota:** para multiplicar, use `*`; para dividir, use `/`; para expoente, use `^`; para expressões mais complexas, consulte: [mathjs.org](https://mathjs.org/docs)
 
-### `movie`
-Receba informações ou sugestões de filme, e até onde assistí-lo
-```
-%movie <nome ou URL do IMDb do filme>
-```
-```
-%movie <recommendation|similar> <nome ou URL do IMDb do filme>
-```
-```
-%movie <now|upcoming|popular|top|trend>
-```
-```
-%movie discover <nome do serviço de streaming>
-```
-> **Nota:**
-> - `recommendation`: recomendação de filme baseada no filme informado;
-> - `similar`: filme com o gênero e palavras-chave similares ao do filme informado;
-> - `now`: filme aleatório que está em cartaz nos cinemas brasileiros;
-> - `upcoming`: filme aleatório que em breve estará em cartaz nos cinemas brasileiros;
-> - `popular`: filme aleatório que está entre os mais populares do dia;
-> - `top`: filme aleatório que está entre os mais bem votados do dia;
-> - `trend`: filme aleatório que está entre as tendências do dia;
-> - `discover`: filme aleatório que está no serviço de streaming informado (netflix, prime, disney+, itunes, google, looke, fox, mubi, star+, paramount+, hbo, claro, telecine, globo)
-
 ### `rafk` (`rart`, `rbrb`, `rcode`, `rfood`, `rgame`, `rgn`, `rwork`, `rread`, `rshower`, `rstudy`, `rwatch`)
 Retome seu status de ausência do chat
 
@@ -102,29 +78,6 @@ Saiba a tradução de alguma mensagem
 ```
 %translate jp-> <mensagem do japonês para o idioma padrão>
 ```
-
-### `tv`
-Receba informações ou sugestões de uma série, e até onde assistí-la
-```
-%tv <nome ou URL do IMDb da série>
-```
-```
-%tv <recommendation|similar> <nome ou URL do IMDb da série>
-```
-```
-%tv <now|popular|top|trend>
-```
-```
-%tv discover <nome do serviço de streaming>
-```
-> **Nota:**
-> - `recommendation`: recomendação de série baseada na série informada;
-> - `similar`: série com o gênero e palavras-chave similares ao da série informada;
-> - `now`: série aleatória que está no ar atualmente;
-> - `popular`: série aleatória que está entre as mais populares do dia;
-> - `top`: série aleatória que está entre as mais bem votadas do dia;
-> - `trend`: série aleatória que está entre as tendências do dia;
-> - `discover`: série aleatória que está no serviço de streaming informado (netflix, prime, disney, looke, fox, star, paramount, hbo, crunchyroll, claro, globo)
 
 ### `weather` (`wt`)
 Saiba o clima atual de alguma cidade
