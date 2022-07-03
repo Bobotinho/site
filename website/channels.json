@@ -1,102 +1,102 @@
 [
   {
-    "name": "Cellbit",
+    "name": "cellbit",
     "icon": "cellbit.JP2",
     "infoLink": "https://twitch.tv/cellbit",
     "pinned": true
   },
   {
-    "name": "Rakin",
+    "name": "rakin",
     "icon": "rakin.JP2",
     "infoLink": "https://twitch.tv/rakin",
     "pinned": true
   },
   {
-    "name": "LubaTV",
+    "name": "calango",
+    "icon": "calango.JP2",
+    "infoLink": "https://twitch.tv/calango",
+    "pinned": true
+  },
+  {
+    "name": "lubatv",
     "icon": "lubatv.JP2",
     "infoLink": "https://twitch.tv/lubatv",
     "pinned": true
   },
   {
-    "name": "Mount",
+    "name": "mount",
     "icon": "mount.JP2",
     "infoLink": "https://twitch.tv/mount",
     "pinned": true
   },
   {
-    "name": "OMeiaUm",
-    "icon": "omeiaum.JP2",
-    "infoLink": "https://twitch.tv/omeiaum",
-    "pinned": true
-  },
-  {
-    "name": "ZeroBadass",
+    "name": "zerobadass",
     "icon": "zerobadass.JP2",
     "infoLink": "https://twitch.tv/zerobadass",
     "pinned": true
   },
   {
+    "name": "omeiaum",
+    "icon": "omeiaum.JP2",
+    "infoLink": "https://twitch.tv/omeiaum",
+    "pinned": true
+  },
+  {
+    "name": "douglassola",
+    "icon": "douglassola.JP2",
+    "infoLink": "https://twitch.tv/douglassola",
+    "pinned": true
+  },
+  {
+    "name": "ljoga",
+    "icon": "ljoga.JP2",
+    "infoLink": "https://twitch.tv/ljoga",
+    "pinned": false
+  },
+  {
+    "name": "zugorow",
+    "icon": "zugorow.JP2",
+    "infoLink": "https://twitch.tv/zugorow",
+    "pinned": false
+  },
+  {
     "name": "rello",
     "icon": "rello.JP2",
     "infoLink": "https://twitch.tv/rello",
-    "pinned": true
-  },
-  {
-    "name": "LJoga",
-    "icon": "ljoga.JP2",
-    "infoLink": "https://twitch.tv/ljoga",
-    "pinned": true
-  },
-  {
-    "name": "Douglassola",
-    "icon": "douglassola.JP2",
-    "infoLink": "https://twitch.tv/douglassola",
     "pinned": false
   },
   {
-    "name": "Noblezito",
-    "icon": "noblezito.JP2",
-    "infoLink": "https://twitch.tv/noblezito",
+    "name": "cinemagrath",
+    "icon": "cinemagrath.JP2",
+    "infoLink": "https://twitch.tv/cinemagrath",
     "pinned": false
   },
   {
-    "name": "OAkinoo",
-    "icon": "oakinoo.JP2",
-    "infoLink": "https://twitch.tv/oakinoo",
+    "name": "skadisz",
+    "icon": "skadisz.JP2",
+    "infoLink": "https://twitch.tv/skadisz",
     "pinned": false
   },
   {
-    "name": "Cassinha",
+    "name": "cassinha",
     "icon": "cassinha.JP2",
     "infoLink": "https://twitch.tv/cassinha",
     "pinned": false
   },
   {
-    "name": "RichJustin",
-    "icon": "richjustin.JP2",
-    "infoLink": "https://twitch.tv/richjustin",
+    "name": "bigmat",
+    "icon": "bigmat.JP2",
+    "infoLink": "https://twitch.tv/bigmat",
     "pinned": false
   },
   {
-    "name": "FISHNOTHING",
-    "icon": "fishnothing.JP2",
-    "infoLink": "https://twitch.tv/fishnothing",
+    "name": "caiodurodo",
+    "icon": "caiodurodo.JP2",
+    "infoLink": "https://twitch.tv/caiodurodo",
     "pinned": false
   },
   {
-    "name": "mortos0",
-    "icon": "mortos0.JP2",
-    "infoLink": "https://twitch.tv/mortos0",
-    "pinned": false
-  },
-  {
-    "name": "Mr_Warrior",
-    "icon": "mr_warrior.JP2",
-    "infoLink": "https://twitch.tv/mr_warrior",
-    "pinned": false
-  },
-  {
-    "name": "Markineed",
+    "name": "markineed",
     "icon": "markineed.JP2",
     "infoLink": "https://twitch.tv/markineed",
     "pinned": false
@@ -108,15 +108,489 @@
     "pinned": false
   },
   {
-    "name": "Akkaiverso",
+    "name": "mr_warrior",
+    "icon": "mr_warrior.JP2",
+    "infoLink": "https://twitch.tv/mr_warrior",
+    "pinned": false
+  },
+  {
+    "name": "olhaogab",
+    "icon": "olhaogab.JP2",
+    "infoLink": "https://twitch.tv/olhaogab",
+    "pinned": false
+  },
+  {
+    "name": "fishnothing",
+    "icon": "fishnothing.JP2",
+    "infoLink": "https://twitch.tv/fishnothing",
+    "pinned": false
+  },
+  {
+    "name": "zzedu_",
+    "icon": "zzedu_.JP2",
+    "infoLink": "https://twitch.tv/zzedu_",
+    "pinned": false
+  },
+  {
+    "name": "richjustin",
+    "icon": "richjustin.JP2",
+    "infoLink": "https://twitch.tv/richjustin",
+    "pinned": false
+  },
+  {
+    "name": "guilhermeaka",
+    "icon": "guilhermeaka.JP2",
+    "infoLink": "https://twitch.tv/guilhermeaka",
+    "pinned": false
+  },
+  {
+    "name": "oakinoo",
+    "icon": "oakinoo.JP2",
+    "infoLink": "https://twitch.tv/oakinoo",
+    "pinned": false
+  },
+  {
+    "name": "cereaw",
+    "icon": "cereaw.JP2",
+    "infoLink": "https://twitch.tv/cereaw",
+    "pinned": false
+  },
+  {
+    "name": "sluushihere",
+    "icon": "sluushihere.JP2",
+    "infoLink": "https://twitch.tv/sluushihere",
+    "pinned": false
+  },
+  {
+    "name": "noblezito",
+    "icon": "noblezito.JP2",
+    "infoLink": "https://twitch.tv/noblezito",
+    "pinned": false
+  },
+  {
+    "name": "heloozita",
+    "icon": "heloozita.JP2",
+    "infoLink": "https://twitch.tv/heloozita",
+    "pinned": false
+  },
+  {
+    "name": "xchieri",
+    "icon": "xchieri.JP2",
+    "infoLink": "https://twitch.tv/xchieri",
+    "pinned": false
+  },
+  {
+    "name": "gagorx",
+    "icon": "gagorx.JP2",
+    "infoLink": "https://twitch.tv/gagorx",
+    "pinned": false
+  },
+  {
+    "name": "spacefy",
+    "icon": "spacefy.JP2",
+    "infoLink": "https://twitch.tv/spacefy",
+    "pinned": false
+  },
+  {
+    "name": "indroidi",
+    "icon": "indroidi.JP2",
+    "infoLink": "https://twitch.tv/indroidi",
+    "pinned": false
+  },
+  {
+    "name": "texugojoga",
+    "icon": "texugojoga.JP2",
+    "infoLink": "https://twitch.tv/texugojoga",
+    "pinned": false
+  },
+  {
+    "name": "beatrrriste",
+    "icon": "beatrrriste.JP2",
+    "infoLink": "https://twitch.tv/beatrrriste",
+    "pinned": false
+  },
+  {
+    "name": "laaawer",
+    "icon": "laaawer.JP2",
+    "infoLink": "https://twitch.tv/laaawer",
+    "pinned": false
+  },
+  {
+    "name": "noktaasmr",
+    "icon": "noktaasmr.JP2",
+    "infoLink": "https://twitch.tv/noktaasmr",
+    "pinned": false
+  },
+  {
+    "name": "lovellytm",
+    "icon": "lovellytm.JP2",
+    "infoLink": "https://twitch.tv/lovellytm",
+    "pinned": false
+  },
+  {
+    "name": "alpacaasmr",
+    "icon": "alpacaasmr.JP2",
+    "infoLink": "https://twitch.tv/alpacaasmr",
+    "pinned": false
+  },
+  {
+    "name": "gordenho",
+    "icon": "gordenho.JP2",
+    "infoLink": "https://twitch.tv/gordenho",
+    "pinned": false
+  },
+  {
+    "name": "muralhakun",
+    "icon": "muralhakun.JP2",
+    "infoLink": "https://twitch.tv/muralhakun",
+    "pinned": false
+  },
+  {
+    "name": "brayman4k",
+    "icon": "brayman4k.JP2",
+    "infoLink": "https://twitch.tv/brayman4k",
+    "pinned": false
+  },
+  {
+    "name": "palik__",
+    "icon": "palik__.JP2",
+    "infoLink": "https://twitch.tv/palik__",
+    "pinned": false
+  },
+  {
+    "name": "skidflashys",
+    "icon": "skidflashys.JP2",
+    "infoLink": "https://twitch.tv/skidflashys",
+    "pinned": false
+  },
+  {
+    "name": "akkaiverso",
     "icon": "akkaiverso.JP2",
     "infoLink": "https://twitch.tv/akkaiverso",
     "pinned": false
   },
   {
-    "name": "Skadisz",
-    "icon": "skadisz.JP2",
-    "infoLink": "https://twitch.tv/skadisz",
+    "name": "miihalvesx",
+    "icon": "miihalvesx.JP2",
+    "infoLink": "https://twitch.tv/miihalvesx",
+    "pinned": false
+  },
+  {
+    "name": "cejera",
+    "icon": "cejera.JP2",
+    "infoLink": "https://twitch.tv/cejera",
+    "pinned": false
+  },
+  {
+    "name": "cariocar6",
+    "icon": "cariocar6.JP2",
+    "infoLink": "https://twitch.tv/cariocar6",
+    "pinned": false
+  },
+  {
+    "name": "euover",
+    "icon": "euover.JP2",
+    "infoLink": "https://twitch.tv/euover",
+    "pinned": false
+  },
+  {
+    "name": "camponeztv",
+    "icon": "camponeztv.JP2",
+    "infoLink": "https://twitch.tv/camponeztv",
+    "pinned": false
+  },
+  {
+    "name": "bobialves",
+    "icon": "bobialves.JP2",
+    "infoLink": "https://twitch.tv/bobialves",
+    "pinned": false
+  },
+  {
+    "name": "ghousxt",
+    "icon": "ghousxt.JP2",
+    "infoLink": "https://twitch.tv/ghousxt",
+    "pinned": false
+  },
+  {
+    "name": "majuusl",
+    "icon": "majuusl.JP2",
+    "infoLink": "https://twitch.tv/majuusl",
+    "pinned": false
+  },
+  {
+    "name": "bolazildo",
+    "icon": "bolazildo.JP2",
+    "infoLink": "https://twitch.tv/bolazildo",
+    "pinned": false
+  },
+  {
+    "name": "carlamorena",
+    "icon": "carlamorena.JP2",
+    "infoLink": "https://twitch.tv/carlamorena",
+    "pinned": false
+  },
+  {
+    "name": "excambaw",
+    "icon": "excambaw.JP2",
+    "infoLink": "https://twitch.tv/excambaw",
+    "pinned": false
+  },
+  {
+    "name": "nikushimori",
+    "icon": "nikushimori.JP2",
+    "infoLink": "https://twitch.tv/nikushimori",
+    "pinned": false
+  },
+  {
+    "name": "arthurbxd",
+    "icon": "arthurbxd.JP2",
+    "infoLink": "https://twitch.tv/arthurbxd",
+    "pinned": false
+  },
+  {
+    "name": "mari_wp",
+    "icon": "mari_wp.JP2",
+    "infoLink": "https://twitch.tv/mari_wp",
+    "pinned": false
+  },
+  {
+    "name": "lucsfdf",
+    "icon": "lucsfdf.JP2",
+    "infoLink": "https://twitch.tv/lucsfdf",
+    "pinned": false
+  },
+  {
+    "name": "gunaguh",
+    "icon": "gunaguh.JP2",
+    "infoLink": "https://twitch.tv/gunaguh",
+    "pinned": false
+  },
+  {
+    "name": "torizinha",
+    "icon": "torizinha.JP2",
+    "infoLink": "https://twitch.tv/torizinha",
+    "pinned": false
+  },
+  {
+    "name": "cafecomace",
+    "icon": "cafecomace.JP2",
+    "infoLink": "https://twitch.tv/cafecomace",
+    "pinned": false
+  },
+  {
+    "name": "socarol",
+    "icon": "socarol.JP2",
+    "infoLink": "https://twitch.tv/socarol",
+    "pinned": false
+  },
+  {
+    "name": "jaspianz",
+    "icon": "jaspianz.JP2",
+    "infoLink": "https://twitch.tv/jaspianz",
+    "pinned": false
+  },
+  {
+    "name": "vicesmile",
+    "icon": "vicesmile.JP2",
+    "infoLink": "https://twitch.tv/vicesmile",
+    "pinned": false
+  },
+  {
+    "name": "sbroow",
+    "icon": "sbroow.JP2",
+    "infoLink": "https://twitch.tv/sbroow",
+    "pinned": false
+  },
+  {
+    "name": "game_zim",
+    "icon": "game_zim.JP2",
+    "infoLink": "https://twitch.tv/game_zim",
+    "pinned": false
+  },
+  {
+    "name": "flpfreitas",
+    "icon": "flpfreitas.JP2",
+    "infoLink": "https://twitch.tv/flpfreitas",
+    "pinned": false
+  },
+  {
+    "name": "mortos0",
+    "icon": "mortos0.JP2",
+    "infoLink": "https://twitch.tv/mortos0",
+    "pinned": false
+  },
+  {
+    "name": "jottahdesigner",
+    "icon": "jottahdesigner.JP2",
+    "infoLink": "https://twitch.tv/jottahdesigner",
+    "pinned": false
+  },
+  {
+    "name": "faburro",
+    "icon": "faburro.JP2",
+    "infoLink": "https://twitch.tv/faburro",
+    "pinned": false
+  },
+  {
+    "name": "tioalfax",
+    "icon": "tioalfax.JP2",
+    "infoLink": "https://twitch.tv/tioalfax",
+    "pinned": false
+  },
+  {
+    "name": "destiinyu",
+    "icon": "destiinyu.JP2",
+    "infoLink": "https://twitch.tv/destiinyu",
+    "pinned": false
+  },
+  {
+    "name": "grifoexe",
+    "icon": "grifoexe.JP2",
+    "infoLink": "https://twitch.tv/grifoexe",
+    "pinned": false
+  },
+  {
+    "name": "diianca",
+    "icon": "diianca.JP2",
+    "infoLink": "https://twitch.tv/diianca",
+    "pinned": false
+  },
+  {
+    "name": "red5b5",
+    "icon": "red5b5.JP2",
+    "infoLink": "https://twitch.tv/red5b5",
+    "pinned": false
+  },
+  {
+    "name": "bieon",
+    "icon": "bieon.JP2",
+    "infoLink": "https://twitch.tv/bieon",
+    "pinned": false
+  },
+  {
+    "name": "felira",
+    "icon": "felira.JP2",
+    "infoLink": "https://twitch.tv/felira",
+    "pinned": false
+  },
+  {
+    "name": "zeszin",
+    "icon": "zeszin.JP2",
+    "infoLink": "https://twitch.tv/zeszin",
+    "pinned": false
+  },
+  {
+    "name": "dergred",
+    "icon": "dergred.JP2",
+    "infoLink": "https://twitch.tv/dergred",
+    "pinned": false
+  },
+  {
+    "name": "enzokotzu",
+    "icon": "enzokotzu.JP2",
+    "infoLink": "https://twitch.tv/enzokotzu",
+    "pinned": false
+  },
+  {
+    "name": "famosojuca",
+    "icon": "famosojuca.JP2",
+    "infoLink": "https://twitch.tv/famosojuca",
+    "pinned": false
+  },
+  {
+    "name": "loriilu",
+    "icon": "loriilu.JP2",
+    "infoLink": "https://twitch.tv/loriilu",
+    "pinned": false
+  },
+  {
+    "name": "ameliebluie",
+    "icon": "ameliebluie.JP2",
+    "infoLink": "https://twitch.tv/ameliebluie",
+    "pinned": false
+  },
+  {
+    "name": "eusourenatin",
+    "icon": "eusourenatin.JP2",
+    "infoLink": "https://twitch.tv/eusourenatin",
+    "pinned": false
+  },
+  {
+    "name": "matheusjkd",
+    "icon": "matheusjkd.JP2",
+    "infoLink": "https://twitch.tv/matheusjkd",
+    "pinned": false
+  },
+  {
+    "name": "stindll_",
+    "icon": "stindll_.JP2",
+    "infoLink": "https://twitch.tv/stindll_",
+    "pinned": false
+  },
+  {
+    "name": "o_ruda",
+    "icon": "o_ruda.JP2",
+    "infoLink": "https://twitch.tv/o_ruda",
+    "pinned": false
+  },
+  {
+    "name": "xterevil",
+    "icon": "xterevil.JP2",
+    "infoLink": "https://twitch.tv/xterevil",
+    "pinned": false
+  },
+  {
+    "name": "beazozas",
+    "icon": "beazozas.JP2",
+    "infoLink": "https://twitch.tv/beazozas",
+    "pinned": false
+  },
+  {
+    "name": "roxotv_",
+    "icon": "roxotv_.JP2",
+    "infoLink": "https://twitch.tv/roxotv_",
+    "pinned": false
+  },
+  {
+    "name": "cigarrog",
+    "icon": "cigarrog.JP2",
+    "infoLink": "https://twitch.tv/cigarrog",
+    "pinned": false
+  },
+  {
+    "name": "haddoky",
+    "icon": "haddoky.JP2",
+    "infoLink": "https://twitch.tv/haddoky",
+    "pinned": false
+  },
+  {
+    "name": "morgsgd",
+    "icon": "morgsgd.JP2",
+    "infoLink": "https://twitch.tv/morgsgd",
+    "pinned": false
+  },
+  {
+    "name": "ig0r664",
+    "icon": "ig0r664.JP2",
+    "infoLink": "https://twitch.tv/ig0r664",
+    "pinned": false
+  },
+  {
+    "name": "renatinhach",
+    "icon": "renatinhach.JP2",
+    "infoLink": "https://twitch.tv/renatinhach",
+    "pinned": false
+  },
+  {
+    "name": "biancaalmeidss",
+    "icon": "biancaalmeidss.JP2",
+    "infoLink": "https://twitch.tv/biancaalmeidss",
+    "pinned": false
+  },
+  {
+    "name": "julea__",
+    "icon": "julea__.JP2",
+    "infoLink": "https://twitch.tv/julea__",
     "pinned": false
   }
 ]
