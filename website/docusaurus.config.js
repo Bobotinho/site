@@ -113,16 +113,6 @@ module.exports = {
           position: 'left',
         },
         {
-          label: 'Status',
-          to: 'https://stats.uptimerobot.com/EQQpJSWDE5',
-          position: 'left',
-        },
-        // {
-        //   to: '/donate',
-        //   label: 'Apoiar',
-        //   position: 'left',
-        // },
-        {
           href: 'https://discord.gg/6Ue66Vs5eQ',
           'aria-label': 'Servidor do Discord',
           position: 'right',
@@ -158,14 +148,6 @@ module.exports = {
               label: 'Comandos',
               to: 'docs/help',
             },
-            {
-              label: 'Status',
-              to: 'https://stats.uptimerobot.com/EQQpJSWDE5',
-            },
-            // {
-            //   label: 'Apoiar',
-            //   to: 'donate',
-            // },
           ],
         },
         {

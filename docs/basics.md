@@ -20,9 +20,6 @@ Receba o link da lista de comandos ou veja como utilizar um comando específico
 %help <nome do comando específico>
 ```
 
-### `invite`
-Receba o link para adicionar o bot no seu chat
-
 ### `news`
 Saiba as novidades e atualizações do bot
 
@@ -31,9 +28,6 @@ Verifique se o bot está online
 
 ### `site` (`discord`, `github`, `twitter`)
 Receba o link do site do Bot para mais informações
-
-### `status`
-Receba o link para ver o status dos softwares do bot
 
 ### `suggest` (`suggestion`)
 Faça uma sugestão de recurso para o bot

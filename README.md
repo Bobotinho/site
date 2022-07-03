@@ -1,5 +1,4 @@
 [![Node](https://img.shields.io/badge/Node-%3E=12.13.0-339933.svg?logo=node.js)](https://nodejs.org/)
-[![UptimeRobot](https://img.shields.io/uptimerobot/status/m788541471-a8c2ad3637d229f2b07b5c12)](https://stats.uptimerobot.com/EQQpJSWDE5/788541471)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/leandcesar/bobotinho-site/blob/master/LICENSE)
 
 # Bobotinho Site
