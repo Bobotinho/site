@@ -4,7 +4,7 @@ import Layout from '@theme/Layout';
 
 function Invite() {
     React.useEffect(() => {
-        window.location.href = 'https://bobotinho-signup.herokuapp.com/invite';
+        window.location.href = '';
     }, []);
     return (
         <Layout
