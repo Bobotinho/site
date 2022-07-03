@@ -43,9 +43,6 @@ const Channels = () => {
           <p>Centenas de canais da Twitch estão usando o Bobotinho, desde canais pequenos que estão iniciando até comunidades grandes e já reconhecidas na plataforma. Confira essa lista!</p>
         </div>
         <div className="logos">{apps.map(renderApp)}</div>
-        <div className="prose">
-          <p>Adicione também, <a href={'/invite'}>clique aqui</a>!</p>
-        </div>
       </div>
     </Layout>
   );

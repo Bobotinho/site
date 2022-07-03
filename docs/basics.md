@@ -20,9 +20,6 @@ Receba o link da lista de comandos ou veja como utilizar um comando específico
 %help <nome do comando específico>
 ```
 
-### `invite`
-Receba o link para adicionar o bot no seu chat
-
 ### `news`
 Saiba as novidades e atualizações do bot
 
