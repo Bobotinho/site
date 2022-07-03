@@ -22,32 +22,6 @@ function Header() {
   );
 }
 
-function Features() {
-  return (
-    <Section className='Features' background='tint'>
-      <div className='content'>
-        <div className={`ThreeColumns`}>
-          <div className={`column first}`}>
-            <img src='img/homepage/up.svg' />
-            <h2 className='Heading' align='center'>Engaje sua comunidade</h2>
-            <p>Ofereça entretenimento e interação entre os usuários do seu chat mesmo quando sua stream estiver offline!</p>
-          </div>
-          <div className={`column middle}`}>
-            <img src='img/homepage/click.svg' />
-            <h2 className='Heading' align='center'>Adicione rapidamente</h2>
-            <p>Solicite usando sua conta da Twitch! Com 2 cliques, o Bobotinho estará no seu chat em até 30 segundos.</p>
-          </div>
-          <div className={`column last}`}>
-            <img src='img/homepage/cloud.svg' />
-            <h2 className='Heading' align='center'>Sempre online</h2>
-            <p>Hospedado em um servidor dedicado, o Bobotinho está disponível a todo momento do dia, noite ou madrugada!</p>
-          </div>
-        </div>
-      </div>
-    </Section>
-  );
-}
-
 function AppList() {
   const { siteConfig } = useDocusaurusContext();
   const apps = siteConfig.customFields.channels.filter(app => app.pinned);
@@ -193,7 +167,6 @@ const Index = () => {
         <meta property='og:title' content='Bobotinho | Seu bot da Twitch' />
       </Head>
       <Header />
-      <Features />
       <Channels />
       <Sponsors />
       <Discord />
