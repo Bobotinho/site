@@ -1,13 +1,9 @@
-[![Node](https://img.shields.io/badge/Node-%3E=12.13.0-339933.svg?logo=node.js)](https://nodejs.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/leandcesar/bobotinho-site/blob/master/LICENSE)
+[![node](https://img.shields.io/badge/Node-%3E=12.13.0-339933.svg?logo=node.js)](https://nodejs.org/)
+[![license](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/leandcesar/bobotinho-site/blob/master/LICENSE)
 
 # Bobotinho Site
-Main repository for the website Bobotinho.
 
-## ℹ️ Introduction
-Website with information about the chatbot Bobotinho.
-
-### ‎💻 Technologies
+## ‎💻 Technologies
 - Site generator in [**React**](https://reactjs.org/) with [**Docusaurus v2**](https://docusaurus.io/)
 
 ## 🏁 Getting Started
@@ -20,9 +16,7 @@ $ node --version
 $ yarn --version
 ```
 
-### ▶️ Run 
-
-Execute the following commands in your `/bobotinho-site` directory:
+## ▶️ Run 
 
 ```bash
 $ cd website/
