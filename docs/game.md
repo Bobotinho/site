@@ -1,15 +1,15 @@
 ---
-id: games
-title: Jogos
+id: game
+title: Interação
 ---
 
-Comandos com jogos para jogar com todos os usuários do chat! **Apenas moderadores podem iniciar os jogos**
+Comandos para jogar no chat com outros usuários
 
-### `hangman` (`hm`)
+### `%hangman` (`%hm`)
 Jogo da forca, descubra a palavra em até 5 tentativas e 2 minutos
 
-### `longestword` (`lw`)
+### `%longestword` (`%lw`)
 Jogo da palavra mais comprida com determinada sílaba, dura 30 segundas
 
-### `mostword` (`mw`)
+### `%mostword` (`%mw`)
 Jogo de mais palavras com determinada sílaba, dura 30 segundas

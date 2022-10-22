@@ -1,11 +1,5 @@
 [
   {
-    "name": "cellbit",
-    "icon": "cellbit.JP2",
-    "infoLink": "https://twitch.tv/cellbit",
-    "pinned": true
-  },
-  {
     "name": "rakin",
     "icon": "rakin.JP2",
     "infoLink": "https://twitch.tv/rakin",
@@ -51,7 +45,7 @@
     "name": "ljoga",
     "icon": "ljoga.JP2",
     "infoLink": "https://twitch.tv/ljoga",
-    "pinned": false
+    "pinned": true
   },
   {
     "name": "zugorow",
@@ -159,12 +153,6 @@
     "name": "sluushihere",
     "icon": "sluushihere.JP2",
     "infoLink": "https://twitch.tv/sluushihere",
-    "pinned": false
-  },
-  {
-    "name": "noblezito",
-    "icon": "noblezito.JP2",
-    "infoLink": "https://twitch.tv/noblezito",
     "pinned": false
   },
   {

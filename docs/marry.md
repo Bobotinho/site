@@ -3,28 +3,22 @@ id: marry
 title: Casamento
 ---
 
-Use cookies para se casar com alguém, mas saiba: um casamento custa caro!
+Use cookies para se casar com alguém (não, não há poligamia... por enquanto)
 
-### `divorce`
+### `%divorce`
 Divorcie-se da pessoa com quem você é casada
 ```
-%divorce <nome do usuário com quem se casou>
+%divorce <nome_do_usuario>
 ```
 
-### `marriage` (`ma`)
+### `%marriage` (`%ma`, `%married`)
 Saiba há quanto tempo algum usuário está casado
 ```
-%ma <nome do usuário>
+%ma <nome_do_usuario|autor>
 ```
 
-### `married`
-Saiba quando algum usuário se casou
-```
-%married <nome do usuário>
-```
-
-### `marry`
+### `%marry`
 Case-se e seja feliz para sempre, mas isso custará cookies
 ```
-%marry <nome do usuário>
+%marry <nome_do_usuario>
 ```

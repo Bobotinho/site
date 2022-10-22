@@ -2,17 +2,17 @@
   "docs": {
     "Comandos": [
       "help",
-      "admin",
-      "basics",
+      "settings",
+      "misc",
       "marry",
-      "cookies",
-      "fun",
-      "dungeons",
-      "infos",
-      "games",
-      "preferences",
-      "pets",
-      "randomic",
+      "cookie",
+      "dungeon",
+      "interact",
+      "game",
+      "profile",
+      "pet",
+      "rand",
+      "stalker",
       "tools"
     ]
   }
