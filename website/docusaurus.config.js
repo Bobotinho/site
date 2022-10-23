@@ -1,5 +1,5 @@
-const channels = require('./channels.json');
-const sponsors = require('./sponsors.json');
+const channels = require('./data/channels.json');
+const sponsors = require('./data/sponsors.json');
 
 module.exports = {
   title: 'Bobotinho',
@@ -28,7 +28,7 @@ module.exports = {
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
           path: '../docs',
-          sidebarPath: require.resolve('./sidebars.json'),
+          sidebarPath: require.resolve('./data/sidebars.json'),
         },
         theme: {
           customCss: [
