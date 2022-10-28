@@ -8,8 +8,8 @@
 
 ## 🏁 Getting Started
 It is assumed that you have:
-- [**Node.js 12.13.0+**](https://nodejs.org/) installed.
-- [**Yarn 1.5+**](https://yarnpkg.com/) installed.
+- [**Node.js 12.13.0+**](https://nodejs.org/) installed
+- [**Yarn 1.5+**](https://yarnpkg.com/) installed
 
 ```bash
 $ node --version
